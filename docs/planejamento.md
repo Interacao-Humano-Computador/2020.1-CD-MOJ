@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 <p align="justify">
-&nbsp;&nbsp;Este documento apresenta o planejamento do projeto, descreveremos aqui as etapas de desenvolvimento. Será dividido em cinco partes: introdução, cronogramas, metodologia, equipe, ferramentas utilizadas e referência bibliográfica.
+&nbsp;&nbsp;Este documento apresenta o planejamento do projeto, descreveremos aqui as etapas de desenvolvimento. Será dividido em seis partes: introdução, lista de sites avaliados, cronogramas, metodologia, equipe, ferramentas utilizadas e referência bibliográfica.
 </p>
 
 ## 2. Listas de sites avaliados
@@ -83,3 +83,4 @@ Tabela horários disponível [**aqui**](https://unbbr-my.sharepoint.com/:x:/g/pe
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 16/09/2020 | Criação documento de planejamento | Todos os integrantes |
+| 1.1 | 16/09/2020 | Ajustando introdução do documento | Thiago Guilherme |
