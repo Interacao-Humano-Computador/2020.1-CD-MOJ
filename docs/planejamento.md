@@ -24,7 +24,7 @@
 |:--------:|:-----------------------------:|:-------:|
 |I| Planejamento do projeto e Processo de Design| 01/09 à 21/09 |
 |II| Perfil do usuário, personas e análise de tarefas| 22/09 à 05/10 |
-|III| Príncipios gerais de projeto, metas de usabilidade e guias de estilo | 06/10 à 05/10 |
+|III| Príncipios gerais de projeto, metas de usabilidade e guias de estilo | 06/10 à 15/10 |
 |IV| Planejamento da avaliação, relato dos resultados da avaliação do storyboard e relato das análises da tarefa | 16/10 à 29/10 |
 |V| Planejamento da avaliação, relato dos resultados da avaliação do storyboard e protótipo do papel | 30/10 à 12/11 |
 |VI| Planejamento da avaliação e relato dos resultados da avaliação do protótipo de alta fidelidade |13/11 à 01/12 |
@@ -84,3 +84,5 @@ Tabela horários disponível [**aqui**](https://unbbr-my.sharepoint.com/:x:/g/pe
 |--|--|--|--|
 | 1.0 | 16/09/2020 | Criação documento de planejamento | Todos os integrantes |
 | 1.1 | 16/09/2020 | Ajustando introdução do documento | Thiago Guilherme |
+| 1.1.1 | 18/09/2020 | Ajuste nas datas de entregas | Thiago Lopes |
+
