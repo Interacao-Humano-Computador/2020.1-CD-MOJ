@@ -8,5 +8,7 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
-
-  
+pages:
+  - Sobre: index.md
+  - Planejamento: planejamento.md
+  - Apresentações: apresentacoes.md
