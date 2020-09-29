@@ -6,13 +6,13 @@
 &nbsp;&nbsp;Este documento apresenta o planejamento do projeto, descreveremos aqui as etapas de desenvolvimento. Será dividido em seis partes: introdução, lista de sites avaliados, cronogramas, metodologia, equipe, ferramentas utilizadas e referência bibliográfica.
 </p>
 
-## 2. Listas de sites avaliados
+## 2. Lista de sites avaliados
 
-- CD-MOJ
-- MPU
-- SIGAA
-- UVA OJ
-- Auxílio emergencial
+- CD-MOJ - Igor Batista
+- MPU - Marcelo Victor
+- SIGAA - Thiago Lopes
+- UVA OJ - Thiago Guilherme
+- Auxílio emergencial - Rhuan Carlos
 
 ## 3. Cronogramas
 
@@ -29,7 +29,17 @@
 |V| Planejamento da avaliação, relato dos resultados da avaliação do storyboard e protótipo do papel | 30/10 à 12/11 |
 |VI| Planejamento da avaliação e relato dos resultados da avaliação do protótipo de alta fidelidade |13/11 à 01/12 |
 
-## 4. Metodologia:
+## 4. Processo de Design:
+&nbsp;&nbsp;Nós escolhemos como processo de design de Engenharia de Usabilidade de Mayhew. Pois esse processo de design reúne e organiza diferentes atividades propostas na área de IHC para orientar o trabalho do designer em direção a uma boa solução interativa.
+	Ele possui três fases: análise de requisitos, design/avaliação/desenvolvimento e instalação, como pode ser visto na Figura 1.
+
+  <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
+    <img width="600px" src="../assets/cicli_mayhew.png">
+    <p>(Figura 1) Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.</p>
+  </div>
+  
+
+## 5. Metodologia:
 
 ###  eXtreme Programming (XP):
 <p align="justify">
@@ -41,9 +51,7 @@
 &nbsp;&nbsp;É uma metodologia de autoria nossa para otimizar e agilizar o tempo de divisão das tarefas entre os integrantes. Sempre que surgir a necessidade de decidir de forma rápida quem irá realizar uma determinada tarefa, rolam-se os dados e decide-se quem irá fazer a tarefa.
 </p>
 
-## 5. Equipe
-
-### Horários disponíveis dos integrantes
+## 6. Horários disponíveis dos integrantes:
 
 <p align="justify">
 &nbsp;&nbsp;A tabela abaixo representa os horários disponiveis do integrantes do grupo, com intuito de gerenciar pareamentos e reuniões presenciais ou por videoconferência (utilizando o Google Hangouts)
@@ -60,7 +68,7 @@
 Tabela horários disponível [**aqui**](https://unbbr-my.sharepoint.com/:x:/g/personal/180018728_aluno_unb_br/EQdxh2LVMcBFisw_7OY68R0BNMp7wD1DMw01AS471TkVoQ?e=XIeJQP)
 <br />
 
-## 6. Ferramentas Utilizadas
+## 7. Ferramentas Utilizadas
 
 | Ferramenta | Nome | Descrição |
 |:--:|:--:|:--:|
@@ -73,7 +81,7 @@ Tabela horários disponível [**aqui**](https://unbbr-my.sharepoint.com/:x:/g/pe
 | ![Telegram_logo](../assets/logos/Telegram.png) | [Telegram](https://web.telegram.org) | Ferramenta de comunicação rápida entre os integrantes |
 | ![ZenHub_logo](../assets/logos/ZenHub.png) | [ZenHub](https://www.zenhub.com) | Subsistema no GitHub que permite gestão ágil do projeto/grupo com interface KanBan |
 
-## 7. Referências Bibliográficas
+## 8. Referências Bibliográficas
 
 - Integrando XP as principais metodologias ágeis, disponível em: https://www.devmedia.com.br/integrando-xp-as-principais-metodologias-ageis/30989
 - BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
@@ -85,4 +93,6 @@ Tabela horários disponível [**aqui**](https://unbbr-my.sharepoint.com/:x:/g/pe
 | 1.0 | 16/09/2020 | Criação documento de planejamento | Todos os integrantes |
 | 1.1 | 16/09/2020 | Ajustando introdução do documento | Thiago Guilherme |
 | 1.1.1 | 18/09/2020 | Ajuste nas datas de entregas | Thiago Lopes |
+| 2.0 | 29/09/2020 | Correções gerais pós feedback | Rhuan Carlos |
+
 
