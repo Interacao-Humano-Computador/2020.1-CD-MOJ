@@ -12,3 +12,6 @@ pages:
   - Sobre: index.md
   - Planejamento: planejamento.md
   - Apresentações: apresentacoes.md
+  #sempre a ultima
+  - Atas:
+      - 30/09/2020: atas/reuniao-30-09-2020.md
