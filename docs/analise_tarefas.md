@@ -22,7 +22,7 @@ A Análise Hierárquica de Tarefas (HTA – Hierarchical Task Analysis) foi dese
 
 ![Análise Tarefas Aluno](assets/HTA/analise_tarefas_aluno.png)
 
-[Link para a imagem](https://app.lucidchart.com/invitations/accept/ed3219a7-79c7-487e-bb7a-e810025fc394)
+[Link para a imagem](https://drive.google.com/file/d/1MWAL075PYXDHrhDTQtB_pG9gjrz8nmiK/view?usp=sharing)
 
 ### 3.2 Representação de Tarefas para o objetivo de realizar contest como aluno
 
@@ -50,7 +50,7 @@ A Análise Hierárquica de Tarefas (HTA – Hierarchical Task Analysis) foi dese
 
 ![Análise Tarefas Professor](assets/HTA/analise_tarefas_professor.png)
 
-[Link para a imagem](https://app.lucidchart.com/invitations/accept/aa7c054f-83d1-4e9c-b7ca-dec5cc45823a)
+[Link para a imagem](https://drive.google.com/file/d/1j1EAjElgZhMXrrXko1WGDTirLr8zLlM8/view?usp=sharing)
 
 ### 3.4 Representação de Tarefas para o objetivo de gerenciar contest como professor
 
@@ -82,3 +82,4 @@ A Análise Hierárquica de Tarefas (HTA – Hierarchical Task Analysis) foi dese
 |--|--|--|--|
 | 1.0 | 03/10/2020 | Criação documento de analise de tarefas | Todos os integrantes |
 | 1.1 | 03/10/2020 | Ajustes gerais ao documento de análise de tarefas | Todos os integrantes |
+| 1.2 | 03/10/2020 | Atualização dos links das imagens do documento de análise de tarefas | Thiago Lopes |
