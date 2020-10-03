@@ -14,7 +14,7 @@ Elas serão utilizadas posteriormente na etapa de elicitação de requisitos pel
 |--|--|
 | Status: | Persona Secundária |
 | Nome: | Breno Carvalho Pinto |
-| Foto: | <img src="../../assets/personas/Breno.jpg" alt="Breno" style="width:130px"/> |
+| Foto: | <img src="../assets/personas/Breno.jpg" alt="Breno" style="width:130px"/> |
 | Idade: | 19 |
 | Profissão: | Estudante, não trabalha ainda por falta de experiência na área |
 | Escolaridade: | Cursando Engenharia Mecânica |
@@ -30,7 +30,7 @@ Elas serão utilizadas posteriormente na etapa de elicitação de requisitos pel
 |--|--|
 | Status: | Persona Primária |
 | Nome: | Samuel Correia Castro |
-| Foto: | <img src="../../assets/personas/Samuel.png" alt="Samuel" style="width:130px"/> |
+| Foto: | <img src="../assets/personas/Samuel.png" alt="Samuel" style="width:130px"/> |
 | Idade: | 40 |
 | Profissão: | Professor |
 | Escolaridade: | Doutor em Ciência da Computação |
@@ -47,7 +47,7 @@ Elas serão utilizadas posteriormente na etapa de elicitação de requisitos pel
 |--|--|
 | Status: | Persona Secundária |
 | Nome: | Lara Silva de Oliveira |
-| Foto: | <img src="../../assets/personas/Lara.jpg" alt="Lara" style="width:130px"/> |
+| Foto: | <img src="../assets/personas/Lara.jpg" alt="Lara" style="width:130px"/> |
 | Idade: | 21 |
 | Profissão: | Estágio em desenvolvimento de aplicativos na empresa SoftLife |
 | Escolaridade: | Ensino Medio completo e cursando o 7º semestre de Engenharia da Computação |
@@ -63,7 +63,7 @@ Elas serão utilizadas posteriormente na etapa de elicitação de requisitos pel
 |--|--|
 | Status: | Antiusuário |
 | Nome: | Maria Julia Jesus |
-| Foto: | <img src="../../assets/personas/Maria.jpg" alt="Maria" style="width:130px"/> |
+| Foto: | <img src="../assets/personas/Maria.jpg" alt="Maria" style="width:130px"/> |
 | Idade: | 63 |
 | Profissão: | Aposentada, dava aulas de português no colégio Vetorial para o ensino médio |
 | Escolaridade: | Ensino Superior e licenciatura em letras |
@@ -83,3 +83,4 @@ Elas serão utilizadas posteriormente na etapa de elicitação de requisitos pel
 | Versão | Data       | Modificação                   | Autor                |
 | ------ | ---------- | ----------------------------- | -------------------- |
 | 1.0    | 30/09/2020 | Criação documento de personas | Todos os integrantes |
+| 1.1    | 03/10/2020 | Correções nos links das imagens | Marcelo Victor |
