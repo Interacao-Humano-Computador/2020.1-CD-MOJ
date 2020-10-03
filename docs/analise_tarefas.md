@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-Uma análise de tarefas é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários, como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os usuários querem ou precisam atingir. Segundo Diaper (2003), a análise de tarefas é: “a expressão utilizada no campo da ergonomia, que inclui IHC, para representar todos os métodos de coletar, classificar e interpretar dados sobre o desempenho de um sistema que possua ao menos uma pessoa como componente”.
+Análise de tarefas é parte de maior foco da área de interação humano computador, pois se preocupa com a perfomance do trabalho, e isso é o que a distingue de outras técnicas. Uma abordagem sistemática é adotada para descrever as propriedades dos modelos usados na análise de tarefas. Tem como objetivo fornecer ao designer a visão dos usuários em relação as tarefas que eles precisam executar (Diaper e Stanton, 2004).
 </p>
 
 ## 2. Motivo da escolha
@@ -18,13 +18,13 @@ Decidimos utilizar esta técnica pois ela fornece uma abordagem genérica para a
 A Análise Hierárquica de Tarefas (HTA – Hierarchical Task Analysis) foi desenvolvida na década de 1960 para entender as competências e habilidades exibidas em tarefas complexas e não repetitivas, bem como para auxiliar na identificação de problemas de desempenho (Annett, 2003; Annett e Duncan, 1967). Ela ajuda a relacionar o que as pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as consequências caso não o façam corretamente. Ela se baseia em psicologia funcional, e não comportamental, como eram as abordagens da época em que foi criada.
 </p>
 
-### 3.1 Diagrama HTA para Efetuar login como aluno
+### 3.1 Diagrama HTA para realizar contest como aluno
 
 ![Análise Tarefas Aluno](assets/HTA/analise_tarefas_aluno.png)
 
 [Link para a imagem](https://app.lucidchart.com/invitations/accept/ed3219a7-79c7-487e-bb7a-e810025fc394)
 
-### 3.2 Representação de Tarefas para o Objetivo Efetuar login como aluno
+### 3.2 Representação de Tarefas para o objetivo de realizar contest como aluno
 
 |Objetivo/Operações|Problemas e Recomendações|
 |-|-|
@@ -46,13 +46,13 @@ A Análise Hierárquica de Tarefas (HTA – Hierarchical Task Analysis) foi dese
 | 2. Acessar *score* | **plano**: Visualizar quais questões os participantes já enviaram e/ou acertaram|
 | 3. Acessar estatística | **plano**: Visualizar os dados estatísticos acerca das questões <br /> **feedback**: O sistema irá informar se a estatística está disponivel |
 
-### 3.3 Diagrama HTA para efetuar login como professor
+### 3.3 Diagrama HTA para gerenciar contest como professor
 
 ![Análise Tarefas Professor](assets/HTA/analise_tarefas_professor.png)
 
 [Link para a imagem](https://app.lucidchart.com/invitations/accept/aa7c054f-83d1-4e9c-b7ca-dec5cc45823a)
 
-### 3.4 Representação de Tarefas para o Objetivo Efetuar login como professor
+### 3.4 Representação de Tarefas para o objetivo de gerenciar contest como professor
 
 |Objetivo/Operações|Problemas e Recomendações|
 |-|-|
@@ -74,10 +74,11 @@ A Análise Hierárquica de Tarefas (HTA – Hierarchical Task Analysis) foi dese
 
 ## 4. Referências Bibliográficas
 
-- BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
-- ANNETT, J. “Hierarchical Task Analysis”. In: D. Diaper & N. Stanton (eds.), The handbook of task analysis for human-computer interaction. Mahwah, NJ: Lawrence Erlbaum Associates, pp. 67 –82, 2003.
+- BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
+- DIAPER, Dan; STANTON, Neville. "The handbook of task analysis for human-computer interaction". Mahwah, NJ: Lawrence Erlbaum Associates, 2004.
 
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 03/10/2020 | Criação documento de analise de tarefas | Todos os integrantes |
+| 1.1 | 03/10/2020 | Ajustes gerais ao documento de análise de tarefas | Todos os integrantes |
