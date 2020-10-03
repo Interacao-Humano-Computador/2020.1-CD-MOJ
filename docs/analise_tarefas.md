@@ -44,7 +44,7 @@ A Análise Hierárquica de Tarefas (HTA – Hierarchical Task Analysis) foi dese
 | 1.1.2.1.4.3. Visualizar questão em HTML | **ação**: Abrir descrição da questão em um documento HTML  |
 | 1.2. Fazer cadastro no mojinho | **ação**: Fazer cadastro do usuário por meio do chatbot mojinho |
 | 2. Acessar *score* | **plano**: Visualizar quais questões os participantes já enviaram e/ou acertaram|
-| 3. Acessar estatística | **plano**: Visualizar os dados estatísticos acerca das questões <br /> **feedback**: O sistema irá informar se a estatística está disponivel |
+| 3. Acessar estatística | **plano**: Visualizar os dados estatísticos acerca das questões <br /> **feedback**: O sistema informará se a estatística está disponivel |
 
 ### 3.3 Diagrama HTA para gerenciar contest como professor
 
@@ -69,7 +69,7 @@ A Análise Hierárquica de Tarefas (HTA – Hierarchical Task Analysis) foi dese
 | 2.6.1.1. Submeter a resposta | **ação**: Clicar no *select* para escolher a questão e submeter o *script*/código com a possível solução da questão |
 | 2.6.2. Visualizar questão em PDF | **ação**: Mostrar questão em formato *PDF*.|
 | 2.6.3 Visualizar questão em HTML | **ação**: Mostrar questão em formato *HTML*. |
-| 2.7. Visualizar estatísticas | **plano**: Visualizar os dados estatísticos acerca das questões <br /> **feedback**: O sistema irá informar se a estatística está disponivel |
+| 2.7. Visualizar estatísticas | **plano**: Visualizar os dados estatísticos acerca das questões <br /> **feedback**: O sistema informará se a estatística está disponivel |
 | 2.8. Visualizar todas as submissões | **ação**: Mostrar todos os exercícios enviados por cada aluno. |
 
 ## 4. Referências Bibliográficas
@@ -80,6 +80,6 @@ A Análise Hierárquica de Tarefas (HTA – Hierarchical Task Analysis) foi dese
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 03/10/2020 | Criação documento de analise de tarefas | Todos os integrantes |
+| 1.0 | 03/10/2020 | Criação documento de análise de tarefas | Todos os integrantes |
 | 1.1 | 03/10/2020 | Ajustes gerais ao documento de análise de tarefas | Todos os integrantes |
 | 1.2 | 03/10/2020 | Atualização dos links das imagens do documento de análise de tarefas | Thiago Lopes |
