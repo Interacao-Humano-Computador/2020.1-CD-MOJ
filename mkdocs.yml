@@ -15,6 +15,7 @@ pages:
     - Personas: personas.md
   - Análise de tarefas:
     - Análise Hierárquica de tarefas: analise_tarefas.md
+    - GOMS: goms.md
   - Apresentações: apresentacoes.md
   #sempre a ultima
   - Atas:
