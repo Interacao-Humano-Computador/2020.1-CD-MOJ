@@ -101,7 +101,7 @@ Nós decidimos utilizar o GOMS pois ele pode ser usado tanto para prever a perfo
 <br>
 </p>
 
-## 4. Referências Bibliográficas
+## 5. Referências Bibliográficas
 
 - BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
 - DIAPER, Dan; STANTON, Neville. "The handbook of task analysis for human-computer interaction". Mahwah, NJ: Lawrence Erlbaum Associates, 2004.
