@@ -111,3 +111,4 @@ Nós decidimos utilizar o GOMS pois ele pode ser usado tanto para prever a perfo
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 03/10/2020 | Criação do documento de CMN-GOMS | Todos os integrantes |
+| 1.1 | 03/10/2020 | Correção erro gramatical | Igor Paiva |
