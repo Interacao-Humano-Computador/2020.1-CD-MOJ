@@ -9,7 +9,7 @@ Uma persona é um personagem fictício, arquétipo hipotético de um grupo de us
 Elas serão utilizadas posteriormente na etapa de elicitação de requisitos pelo método da introspecção.
 </p>
 
-### Persona 1 - Breno Carvalho Pinto.
+### Persona 1
 | Persona | Breno Carvalho Pinto |
 |--|--|
 | Status: | Persona Secundária |
@@ -25,7 +25,7 @@ Elas serão utilizadas posteriormente na etapa de elicitação de requisitos pel
 | Tarefas: | Resolver as listas de exercícios, tirar dúvidas sobre os exercícios, visualizar o gabarito dos exercícios |
 | Expectativas: | Espera que o sitema seja de fácil aprendizado, seja agradável aos olhos  |
 
-### Persona 2 - Samuel Correia Castro
+### Persona 2
 | Persona | Samuel Correia Castro |
 |--|--|
 | Status: | Persona Primária |
@@ -41,7 +41,7 @@ Elas serão utilizadas posteriormente na etapa de elicitação de requisitos pel
 | Tarefas: | Preparar e ministrar aulas, e aproveitar o tempo livre com sua família  |
 | Expectativas: | Acredita que o sistema é uma forma eficiente, prática e justa de avaliar seus alunos |
 
-### Persona 3 - Lara Silva de Oliveira.
+### Persona 3
 
 | Persona | Lara Silva de Oliveira |
 |--|--|
@@ -58,7 +58,7 @@ Elas serão utilizadas posteriormente na etapa de elicitação de requisitos pel
 | Tarefas: | Auxiliar os alunos com as possíveis dúvidas em relação ao conteúdo que está sendo ministrado. |
 | Expectativas: | Visualizar as questões das listas disponiveis, ter acesso ao código dos alunos |
 
-### Persona 4 - Maria Julia Jesus.
+### Persona 4
 | Persona | Maria Julia Jesus |
 |--|--|
 | Status: | Antiusuário |
@@ -84,3 +84,4 @@ Elas serão utilizadas posteriormente na etapa de elicitação de requisitos pel
 | ------ | ---------- | ----------------------------- | -------------------- |
 | 1.0    | 30/09/2020 | Criação documento de personas | Todos os integrantes |
 | 1.1    | 03/10/2020 | Correções nos links das imagens | Marcelo Victor |
+| 1.2    | 03/10/2020 | Tirando dados redundantes     | Thiago Guilherme     |
