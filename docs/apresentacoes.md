@@ -1,6 +1,9 @@
 # Apresentações
 
-## 1ª Apresentação
+## 1ª Apresentação - Planejamento
 
-- <a href="https://web.microsoftstream.com/video/971ce5c9-02e9-4978-8d0d-bde79183ba72" target="_blank">Vídeo</a>
-- <a href="https://docs.google.com/presentation/d/1q8pUsbDTMlLjMLCbITq5OzFCodjR7nEztfwfi01KpcQ/edit?usp=sharing" target="_blank">Apresentação</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Ossub1ceJs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 2ª Apresentação - Perfis de Usuário & Análise de tarefas
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/26aaL7OcQyo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
