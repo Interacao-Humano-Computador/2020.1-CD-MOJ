@@ -14,8 +14,8 @@ pages:
   - Perfil de usuário:
     - Personas: personas.md
   - Análise de tarefas:
-    - Análise Hierárquica de tarefas: analise_tarefas.md
-    - GOMS: goms.md
+    - Análise Hierárquica de tarefas: analise_tarefas/hta.md
+    - GOMS: analise_tarefas/goms.md
   - Apresentações: apresentacoes.md
   #sempre a ultima
   - Atas:

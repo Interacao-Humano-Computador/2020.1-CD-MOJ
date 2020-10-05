@@ -15,7 +15,7 @@ O modelo GOMS (Goals, Operators, Methods, and Selection Rules) é um método par
 ## 3. Motivo da escolha
 
 <p style="text-indent: 20px; text-align: justify">
-Nós decidimos utilizar o GOMS pois ele pode ser usado tanto para prever a performance da tarefa quanto substituir testes de usuário empíricos necessários para chegar a um design que é tanto funcional quando utilizável. Mais especificamente decidimos utilizar o CNM-GOMS porque a análise é executável, qualquer exigência da tarefa pode ser simulada seguindo caminhos diferentes, dependendo da cada tarefa (Barbosa e Silva, 2010).
+Nós decidimos utilizar o GOMS pois ele pode ser usado tanto para prever a performance da tarefa quanto substituir testes de usuário empíricos necessários para chegar a um design que é tanto funcional quando utilizável. Mais especificamente decidimos utilizar o CNM-GOMS porque a análise é executável, qualquer exigência da tarefa pode ser simulada seguindo caminhos diferentes, dependendo de cada tarefa (Barbosa e Silva, 2010).
 </p>
 
 ## 4. Objetivos
@@ -111,3 +111,4 @@ Nós decidimos utilizar o GOMS pois ele pode ser usado tanto para prever a perfo
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 03/10/2020 | Criação do documento de CMN-GOMS | Todos os integrantes |
+| 1.1 | 03/10/2020 | Correção erro gramatical | Igor Paiva |
