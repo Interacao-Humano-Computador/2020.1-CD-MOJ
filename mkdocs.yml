@@ -18,7 +18,7 @@ pages:
     - GOMS: analise_tarefas/goms.md
   - Análise de requisitos:
     - Metas de usabilidade: analise_requisitos/metas_de_usabilidade.md
-  
+    - Princípios e diretrizes do projeto: analise_requisitos/principios.md
   - Apresentações: apresentacoes.md
   #sempre a ultima
   - Atas:
