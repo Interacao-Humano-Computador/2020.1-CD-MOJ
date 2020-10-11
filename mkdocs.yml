@@ -19,6 +19,7 @@ pages:
   - Análise de requisitos:
     - Metas de usabilidade: analise_requisitos/metas_de_usabilidade.md
     - Princípios e diretrizes do projeto: analise_requisitos/principios.md
+    - Guia de estilo: analise_requisitos/guia_estilo.md
   - Apresentações: apresentacoes.md
   #sempre a ultima
   - Atas:
