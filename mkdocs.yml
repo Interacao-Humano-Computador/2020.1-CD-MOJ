@@ -16,6 +16,9 @@ pages:
   - Análise de tarefas:
     - Análise Hierárquica de tarefas: analise_tarefas/hta.md
     - GOMS: analise_tarefas/goms.md
+  - Análise de requisitos:
+    - Metas de usabilidade: analise_requisitos/metas_de_usabilidade.md
+  
   - Apresentações: apresentacoes.md
   #sempre a ultima
   - Atas:
