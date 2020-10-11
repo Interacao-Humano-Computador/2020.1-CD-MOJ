@@ -20,7 +20,7 @@ As cores escolhidas foram as seguintes:
 
 ![Cores escolhidas](../assets/guia_estilo/colors.jpeg)
 
-[Link para a imagem](https://drive.google.com/file/d/1yIb9NlQsHFwIDzKP2aUcbMG4EKajaoQe/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1bw0B7BmXt0gUnuurVSdCDroVhdmAO-NF/view?usp=sharing" target="_blank">Link para a imagem</a>
 
 ## Tipografia
 
@@ -32,7 +32,7 @@ Exemplos:
 
 ![Exemplos](../assets/guia_estilo/font_examples.png)
 
-[Link para a imagem](https://drive.google.com/file/d/1bw0B7BmXt0gUnuurVSdCDroVhdmAO-NF/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1yIb9NlQsHFwIDzKP2aUcbMG4EKajaoQe/view?usp=sharing" target="_blank">Link para a imagem</a>
 
 ## Referências Bibliográficas
 
