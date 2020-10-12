@@ -3,7 +3,7 @@
 ## Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-Príncipios e diretrizes em um projeto demonstram juntamente os objetivos gerais e de alto nível com as regras gerais comumente observados na prática e padrões, soluções específicas a certos contextos bem delimitados, envolvendo certos usuário desempenhando determinadas tarefas, segundo Barbosa e Silva (2010).
+Princípios e diretrizes em um projeto normalmente demonstram: objetivos gerais e de alto nível, regras gerais comumente observadas na prática, padrões; soluções específicas a certos contextos bem delimitados, envolvendo certos usuários desempenhando determinadas tarefas (Barbosa e Silva, 2010).
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
@@ -78,3 +78,4 @@ Atualmente, o sistema não contempla nenhum método de recuperação de erro. Po
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 11/10/2020 | Criação do documento de princípios e diretrizes do projeto | Todos os integrantes |
+| 1.1 | 11/10/2020 | Correção na introdução | Igor Paiva |
