@@ -3,11 +3,11 @@
 ## Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-O guia de estilo tem como objetivo ser um guia para a equipe de design e de desenvolvedores, de forma às equipes ter uma orientação no momento de criação da interface do sistema, de forma a manter um padrão no design do sistema (Barbosa e Silva, 2010).
+O guia de estilo tem como objetivo ser um guia para a equipe de design e de desenvolvedores, de forma as equipes ter uma orientação no momento de criação da interface do sistema, de forma a manter um padrão no design do sistema (Barbosa e Silva, 2010).
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-A partir disso, os protótipos do CD-MOJ utilizaram como guia para a criação da interface este documento que contém a maioria dos padrões do novo CD-MOJ.
+A partir disso, os protótipos do CD-MOJ utilizaram como guia para a criação da interface este documento que contém a maioria dos padrões da proposta de uma nova interface do CD-MOJ.
 </p>
 
 ## Cores
@@ -44,3 +44,4 @@ Exemplos:
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 11/10/2020 | Criação do documento de guia de estilo | Todos os integrantes |
+| 1.1 | 12/10/2020 | Correções gramaticais e nos links das imagens | Igor Paiva |
