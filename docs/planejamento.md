@@ -34,7 +34,7 @@
 	Ele possui três fases: análise de requisitos, design/avaliação/desenvolvimento e instalação, como pode ser visto na Figura 1.
 
   <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-    <img width="600px" src="../assets/cicli_mayhew.png">
+    <img width="600px" src="../assets/ciclo_mayhew.png">
     <p>(Figura 1) Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.</p>
   </div>
   
