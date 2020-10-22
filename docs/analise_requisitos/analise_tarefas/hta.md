@@ -20,7 +20,7 @@ A Análise Hierárquica de Tarefas (HTA – Hierarchical Task Analysis) foi dese
 
 ### 3.1 Diagrama HTA para realizar contest como aluno
 
-![Análise Tarefas Aluno](../assets/HTA/analise_tarefas_aluno.png)
+![Análise Tarefas Aluno](../../assets/HTA/analise_tarefas_aluno.png)
 
 [Link para a imagem](https://drive.google.com/file/d/1D3by97Q26qjwLTQ1bDk3wJxA5yoi6BLn/view?usp=sharing)
 
@@ -48,7 +48,7 @@ A Análise Hierárquica de Tarefas (HTA – Hierarchical Task Analysis) foi dese
 
 ### 3.3 Diagrama HTA para gerenciar contest como professor
 
-![Análise Tarefas Professor](../assets/HTA/analise_tarefas_professor.png)
+![Análise Tarefas Professor](../../assets/HTA/analise_tarefas_professor.png)
 
 [Link para a imagem](https://drive.google.com/file/d/14seE0yRKw8f-yGqRkEKR9H-whrxnGX3R/view?usp=sharing)
 

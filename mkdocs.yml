@@ -11,12 +11,12 @@ extra_css:
 pages:
   - Sobre: index.md
   - Planejamento: planejamento.md
-  - Perfil de usuário:
-    - Personas: personas.md
-  - Análise de tarefas:
-    - Análise Hierárquica de tarefas: analise_tarefas/hta.md
-    - GOMS: analise_tarefas/goms.md
   - Análise de requisitos:
+    - Perfil de usuário:
+      - Personas: analise_requisitos/personas.md
+    - Análise de tarefas:
+      - Análise Hierárquica de tarefas: analise_requisitos/analise_tarefas/hta.md
+      - GOMS: analise_requisitos/analise_tarefas/goms.md
     - Características da plataforma: analise_requisitos/caracteristicas.md
     - Princípios e diretrizes do projeto: analise_requisitos/principios.md
     - Metas de usabilidade: analise_requisitos/metas_de_usabilidade.md
