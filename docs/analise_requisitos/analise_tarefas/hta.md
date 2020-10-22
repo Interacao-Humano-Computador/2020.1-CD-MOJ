@@ -22,7 +22,7 @@ A Análise Hierárquica de Tarefas (HTA – Hierarchical Task Analysis) foi dese
 
 ![Análise Tarefas Aluno](../../assets/HTA/analise_tarefas_aluno.png)
 
-[Link para a imagem](https://drive.google.com/file/d/1D3by97Q26qjwLTQ1bDk3wJxA5yoi6BLn/view?usp=sharing)
+[Link para a imagem](https://drive.google.com/file/d/1n4pZ7QCoxFI-taMwxL3DOPwmoApO-zs_/view?usp=sharing)
 
 ### 3.2 Representação de Tarefas para o objetivo de realizar contest como aluno
 
@@ -50,7 +50,7 @@ A Análise Hierárquica de Tarefas (HTA – Hierarchical Task Analysis) foi dese
 
 ![Análise Tarefas Professor](../../assets/HTA/analise_tarefas_professor.png)
 
-[Link para a imagem](https://drive.google.com/file/d/14seE0yRKw8f-yGqRkEKR9H-whrxnGX3R/view?usp=sharing)
+[Link para a imagem](https://drive.google.com/file/d/1fyniHSrQWfZe4zwpwIa8FcJHYwnSGzYS/view?usp=sharing)
 
 ### 3.4 Representação de Tarefas para o objetivo de gerenciar contest como professor
 
