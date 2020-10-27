@@ -44,7 +44,7 @@ Um protótipo de baixa fidelidade não parece muito com o produto final, e tamb�
 
 ![professor scoreboard](../assets/storyboard/prof_statistics.png)
 
-<a href="https://drive.google.com/file/d/1gr9Skvtrm_aJbqf2hyRthv8jxV6XCR9Y/view?usp=sharing" target="_blank">link para o storyboard acima</a>
+<a href="https://drive.google.com/file/d/1cNVW1xLs3nuJF6xv3726_2o2ISaBV2bL/view?usp=sharing" target="_blank">link para o storyboard acima</a>
 
 #### 2.2.3 Visualizar Submissões
 
