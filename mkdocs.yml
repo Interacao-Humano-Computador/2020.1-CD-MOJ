@@ -23,6 +23,7 @@ pages:
     - Guia de estilo: analise_requisitos/guia_estilo.md
   - Design, avaliação e desenvolvimento:
     - Reengenharia do trabalho: DeAD/reestruturacao_tarefas.md
+    - Storyboard: DeAD/storyboard.md
   - Apresentações: apresentacoes.md
   #sempre a ultima
   - Atas:
