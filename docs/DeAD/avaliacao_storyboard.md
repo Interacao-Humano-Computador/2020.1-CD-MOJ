@@ -12,6 +12,10 @@
 Para a avaliação dos <i>storyboards</i> nós decidimos utilizar um método de inspeção, mais especificamente uma avaliação heurística, que é um método de avaliação formativa, ou seja, que podemos aplicar durante o processo de design e antes de uma solução concluída (Barbosa e Silva, 2010).
 </p>
 
+<p style="text-indent: 20px; text-align: justify">
+Foi feita uma avaliação das tarefas do sistema usando a técnica de inspeção de percurso cognitivo. Como o <i>storyboard</i> foi feito utilizando essas tarefas como base, essa avaliação cobre, de certa forma, o <i>storyboard</i>. O documento com a avaliação pode ser encontrado <a href="/DeAD/avaliacao_storyboard/" target="_blank">aqui</a>
+</p>
+
 ### 2.1 Aluno
 
 <div style="text-align: center">
