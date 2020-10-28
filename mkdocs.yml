@@ -24,6 +24,8 @@ pages:
   - Design, avaliação e desenvolvimento:
     - Reengenharia do trabalho: DeAD/reestruturacao_tarefas.md
     - Storyboard: DeAD/storyboard.md
+    - Avaliação:
+      - Avaliação do Storyboard : DeAD/avaliacao_storyboard.md
   - Apresentações: apresentacoes.md
   #sempre a ultima
   - Atas:
