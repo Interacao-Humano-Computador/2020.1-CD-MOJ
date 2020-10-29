@@ -9,7 +9,7 @@
 ## 2. Avaliação
 
 <p style="text-indent: 20px; text-align: justify">
-Para a avaliação da reestruturação das tarefas nós decidimos utilizar um método de inspeção, mais especificamente a técnica de percurso cognitivo, que é um método de avaliação formativa, ou seja, que podemos aplicar durante o processo de design e antes de uma solução concluída (Barbosa e Silva, 2010).
+Para a avaliação da reestruturação das tarefas nós decidimos utilizar um método de inspeção, mais especificamente a técnica de percurso cognitivo, que é um método de avaliação formativa, ou seja, que podemos aplicar durante o processo de design e antes de uma solução concluída (Barbosa e Silva, 2010). As personas utilizadas nesse documento são descritas no <a href="/analise_requisitos/personas/">documento de personas</a>, que representam os usuários do nosso sistema.
 </p>
 
 ### 2.1 Aluno

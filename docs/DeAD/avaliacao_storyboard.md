@@ -16,6 +16,21 @@ Para a avaliação dos <i>storyboards</i> nós decidimos utilizar um método de 
 Foi feita uma avaliação das tarefas do sistema usando a técnica de inspeção de percurso cognitivo. Como o <i>storyboard</i> foi feito utilizando essas tarefas como base, essa avaliação cobre, de certa forma, o <i>storyboard</i>. O documento com a avaliação pode ser encontrado <a href="/DeAD/avaliacao_storyboard/" target="_blank">aqui</a>
 </p>
 
+Heurísticas de Nielsen:
+
+1. **Status do sistema:** o usuário deve ser informado pelo sistema em tempo razoável sobre o que está
+acontecendo.
+2. **Compatibilidade do sistema com o mundo real:** o modelo lógico do sistema deve ser compatível com o modelo lógico do usuário.
+3. **Controle do usuário e liberdade:** o sistema deve tornar disponíveis funções que possibilitem saídas de funções indesejadas.
+4. **Consistência e padrões:** o sistema deve ser consistente quanto à utilização de sua simbologia e à sua plataforma de hardware e software.
+5. **Prevenção de erros:** o sistema deve ter um design que se preocupe com as possibilidades de erro. 
+6. **Reconhecimento ao invés de relembrança:** as instruções para o bom funcionamento do sistema devem estar visíveis no contexto em que o usuário se encontra.
+7. **Flexibilidade e eficiência de uso:** o sistema deve prever o nível de proficiência do usuário em relação ao próprio sistema.
+8. **Estética e design minimalista:** os diálogos do sistema devem conter somente informações relevantes ao funcionamento.
+9. **Ajuda aos usuários no reconhecimento, diagnóstico e correção de erros:** as mensagens devem ser expressas em linguagem clara, indicando as possíveis soluções.
+10. **Ajuda e documentação:** a informação desejada deve ser facilmente encontrada, de preferência deve ser
+contextualizada e não muito extensa.
+
 ### 2.1 Aluno
 
 <div style="text-align: center">
