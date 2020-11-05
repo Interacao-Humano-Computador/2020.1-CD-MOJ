@@ -46,7 +46,8 @@ Para solucionar esse problema foi decidido que a interface disponibilizará func
 
 ![Análise Tarefas Aluno](../../assets/HTA/analise_tarefas_aluno_reestruturado.png)
 
-[Link para a imagem](https://drive.google.com/file/d/1GixWzuzq43S2DCKUsStYAkmyxxH06KAe/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1GixWzuzq43S2DCKUsStYAkmyxxH06KAe/view?usp=sharing" target="_blank">Link para o diagrama acima</a>
+
 
 ### 3.2 Representação de Tarefas para o objetivo de realizar contest como aluno
 
@@ -86,7 +87,7 @@ Para solucionar esse problema foi decidido que a interface disponibilizará func
 
 ![Análise Tarefas Professor](../../assets/HTA/analise_tarefas_professor_reestruturado.png)
 
-[Link para a imagem](https://drive.google.com/file/d/19_fjn6yyXVgGXkTpxIu4G_MwEItJ054D/view?usp=sharing)
+<a href="https://drive.google.com/file/d/19_fjn6yyXVgGXkTpxIu4G_MwEItJ054D/view?usp=sharing" target="_blank">Link para o diagrama acima</a>
 
 ### 3.4 Representação de Tarefas para o objetivo de gerenciar contest como professor
 
