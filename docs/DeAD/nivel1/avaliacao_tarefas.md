@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-"A avaliação de IHC é uma atividade fundamental em qualquer processo de desenvolvimento que busque produzir um sistema interativo com alta qualidade de uso. Ela orienta o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. Assim, é possível corrigir os problemas relacionados com a qualidade de uso antes de inserir o sistema interativo no cotidiano dos usuários, seja um sistema novo ou uma nova versão de algum sistema existente" (BARBOSA e SILVA, 2019, p. 286).
+"A avaliação de IHC é uma atividade fundamental em qualquer processo de desenvolvimento que busque produzir um sistema interativo com alta qualidade de uso. Ela orienta o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. Assim, é possível corrigir os problemas relacionados com a qualidade de uso antes de inserir o sistema interativo no cotidiano dos usuários, seja um sistema novo ou uma nova versão de algum sistema existente" (Barbosa e Silva, 2019, p. 286).
 </p>
 
 ## 2. Avaliação
@@ -16,7 +16,7 @@ Para a avaliação da reestruturação das tarefas nós decidimos utilizar um m�
 
 #### PCA01 - Submeter resposta em um contest privado
 
-Persona: [Breno Carvalho](../../analise_requisitos/personas/#persona-1) <br />
+Persona: [Breno Carvalho](../../../analise_requisitos/personas/#persona-1) <br />
 Sistema: CD-MOJ <br />
 Tarefa: Submeter resposta em um contest privado
 
@@ -68,7 +68,7 @@ Percurso cognitivo (parcial):
 ---
 #### PCA02 - Submeter resposta em um contest público
 
-Persona: [Breno Carvalho](../../analise_requisitos/personas/#persona-1) <br />
+Persona: [Breno Carvalho](../../../analise_requisitos/personas/#persona-1) <br />
 Sistema: CD-MOJ <br />
 Tarefa: Submeter resposta em um contest público
 
@@ -121,7 +121,7 @@ Percurso cognitivo (parcial):
 #### PCA03 - visualizar score de um contest privado
 
 
-Persona: [Breno Carvalho](../../analise_requisitos/personas/#persona-1) <br />
+Persona: [Breno Carvalho](../../../analise_requisitos/personas/#persona-1) <br />
 Sistema: CD-MOJ <br />
 Tarefa: visualizar score de um contest privado
 
@@ -159,7 +159,7 @@ Percurso cognitivo (parcial):
 #### PCA04 - visualizar estatísticas de um contest privado
 
 
-Persona: [Breno Carvalho](../../analise_requisitos/personas/#persona-1) <br />
+Persona: [Breno Carvalho](../../../analise_requisitos/personas/#persona-1) <br />
 Sistema: CD-MOJ <br />
 Tarefa: visualizar estatísticas de um contest privado
 
@@ -196,7 +196,7 @@ Percurso cognitivo (parcial):
 ---
 #### PCA05 - visualizar score de um contest público
 
-Persona: [Breno Carvalho](../../analise_requisitos/personas/#persona-1) <br />
+Persona: [Breno Carvalho](../../../analise_requisitos/personas/#persona-1) <br />
 Sistema: CD-MOJ <br />
 Tarefa: visualizar score de um contest público
 
@@ -222,7 +222,7 @@ Percurso cognitivo (parcial):
 #### PCA06 - visualizar estatísticas de um contest público
 
 
-Persona: [Breno Carvalho](../../analise_requisitos/personas/#persona-1) <br />
+Persona: [Breno Carvalho](../../../analise_requisitos/personas/#persona-1) <br />
 Sistema: CD-MOJ <br />
 Tarefa: visualizar estatísticas de um contest público
 
@@ -249,7 +249,7 @@ Percurso cognitivo (parcial):
 
 #### PCP01 - Acessar a ferramenta sherlock em um contest específico
 
-Persona: [Samuel Correia](../../analise_requisitos/personas/#persona-2) <br />
+Persona: [Samuel Correia](../../../analise_requisitos/personas/#persona-2) <br />
 Sistema: CD-MOJ <br />
 Tarefa: Acessar a ferramenta sherlock em um contest específico
 
@@ -286,7 +286,7 @@ Percurso cognitivo (parcial):
 
 #### PCP02 - Visualizar todas as submissões de um contest específico
 
-Persona: [Samuel Correia](../../analise_requisitos/personas/#persona-2) <br />
+Persona: [Samuel Correia](../../../analise_requisitos/personas/#persona-2) <br />
 Sistema: CD-MOJ <br />
 Tarefa: Visualizar todas as submissões de um contest específico
 
@@ -323,7 +323,7 @@ Percurso cognitivo (parcial):
 
 #### PCP03 - Visualizar o score de um contest específico
 
-Persona: [Samuel Correia](../../analise_requisitos/personas/#persona-2) <br />
+Persona: [Samuel Correia](../../../analise_requisitos/personas/#persona-2) <br />
 Sistema: CD-MOJ <br />
 Tarefa: Visualizar o score de um contest específico
 
@@ -359,7 +359,7 @@ Percurso cognitivo (parcial):
 
 #### PCP04 - Visualizar as estatísticas de um contest específico
 
-Persona: [Samuel Correia](../../analise_requisitos/personas/#persona-2) <br />
+Persona: [Samuel Correia](../../../analise_requisitos/personas/#persona-2) <br />
 Sistema: CD-MOJ <br />
 Tarefa: Visualizar as estatísticas de um contest específico
 
@@ -395,7 +395,7 @@ Percurso cognitivo (parcial):
 
 #### PCA05 - Submeter resposta em um contest
 
-Persona: [Samuel Correia](../../analise_requisitos/personas/#persona-2) <br />
+Persona: [Samuel Correia](../../../analise_requisitos/personas/#persona-2) <br />
 Sistema: CD-MOJ <br />
 Tarefa: Submeter resposta em um contest
 

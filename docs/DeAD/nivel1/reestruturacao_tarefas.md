@@ -8,7 +8,11 @@ Com base no ciclo de Mayhew (Barbosa e Silva, 2010), processo de design que esta
 
 ## 2. Mudanças propostas
 
-## Tarefas de aluno
+<p style="text-indent: 20px; text-align: justify">
+Em ambos os diagramas haviam pequenos problemas na estrutura e na notação utilizada nos diagramas, todos esses problemas também foram resolvidos nos novos diagramas. Abaixo está separado os problemas específicos tanto para as tarefas dos alunos quanto dos professores.
+</p>
+
+## 2.1 Tarefas de aluno
 
 **Problema:**
 
@@ -22,11 +26,25 @@ Foi apontado que o usuário, nesse caso aluno, precisa decorar um usuário e sen
 Para solucionar esse problema foi decidido que o usuário teria uma conta principal e essa conta pode ser associada a um contest por um professor, dessa forma o usuário precisa de apenas um único login e senha.
 </p>
 
+## 2.2 Tarefas de professor
+
+**Problema:**
+
+<p style="text-indent: 20px; text-align: justify">
+Foi apontado que o usuário, nesse caso professor, precisa decorar uma série de comandos para realizar funções básicas na lista de exercícios, como por exemplo, criar uma nova lista ou aumentar a data limite da mesma, gerando um trabalho adicional.
+</p>
+
+**Solução:**
+
+<p style="text-indent: 20px; text-align: justify">
+Para solucionar esse problema foi decidido que a interface disponibilizará funcionalidades de gestão do contest para os usuários identificados como um professor, desta forma a simplicidade das tarefas se torna maior.
+</p>
+
 ## 3. Diagramas refatorados
 
 ### 3.1 Diagrama HTA para realizar contest como aluno
 
-![Análise Tarefas Aluno](../assets/HTA/analise_tarefas_aluno_reestruturado.png)
+![Análise Tarefas Aluno](../../assets/HTA/analise_tarefas_aluno_reestruturado.png)
 
 [Link para a imagem](https://drive.google.com/file/d/1GixWzuzq43S2DCKUsStYAkmyxxH06KAe/view?usp=sharing)
 
@@ -66,7 +84,7 @@ Para solucionar esse problema foi decidido que o usuário teria uma conta princi
 
 ### 3.3 Diagrama HTA para gerenciar contest como professor
 
-![Análise Tarefas Professor](../assets/HTA/analise_tarefas_professor_reestruturado.png)
+![Análise Tarefas Professor](../../assets/HTA/analise_tarefas_professor_reestruturado.png)
 
 [Link para a imagem](https://drive.google.com/file/d/19_fjn6yyXVgGXkTpxIu4G_MwEItJ054D/view?usp=sharing)
 
@@ -99,3 +117,4 @@ Para solucionar esse problema foi decidido que o usuário teria uma conta princi
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 21/10/2020 | Criação documento | Todos os integrantes |
+| 1.1 | 05/11/2020 | Correção nas mudanças propostas | Igor Paiva |

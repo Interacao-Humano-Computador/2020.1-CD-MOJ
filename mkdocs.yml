@@ -22,11 +22,12 @@ pages:
     - Metas de usabilidade: analise_requisitos/metas_de_usabilidade.md
     - Guia de estilo: analise_requisitos/guia_estilo.md
   - Design, avaliação e desenvolvimento:
-    - Reengenharia do trabalho: DeAD/reestruturacao_tarefas.md
-    - Storyboard: DeAD/storyboard.md
-    - Avaliação:
-      - Avaliação do Storyboard : DeAD/avaliacao_storyboard.md
-      - Avaliação análise de tarefas : DeAD/avaliacao_tarefas.md
+    - Nível 1:
+      - Reengenharia do trabalho: DeAD/nivel1/reestruturacao_tarefas.md
+      - Storyboard: DeAD/nivel1/storyboard.md
+      - Avaliação:
+        - Avaliação do Storyboard : DeAD/nivel1/avaliacao_storyboard.md
+        - Avaliação análise de tarefas : DeAD/nivel1/avaliacao_tarefas.md
   - Apresentações: apresentacoes.md
   #sempre a ultima
   - Atas:
