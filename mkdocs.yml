@@ -28,6 +28,11 @@ pages:
       - Avaliação:
         - Avaliação do Storyboard : DeAD/nivel1/avaliacao_storyboard.md
         - Avaliação análise de tarefas : DeAD/nivel1/avaliacao_tarefas.md
+    - Nível 2:
+      - Sketch: DeAD/nivel2/sketch.md
+      - Protótipo de Média Fidelidade: DeAD/nivel2/prototipo_media_fidelidade.md
+      - Avaliação:
+        - Planejamento avaliação protótipo de média fidelidade: DeAD/nivel2/planejamento_avaliacao_media.md
   - Apresentações: apresentacoes.md
   #sempre a ultima
   - Atas:
