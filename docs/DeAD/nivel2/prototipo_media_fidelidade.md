@@ -36,7 +36,7 @@
 
 <a href="https://drive.google.com/file/d/10050cYALDhCMievaZn25HlROKlrz_o7m/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
-## Questão normal
+## Questão padrão
 
 ![Questão](../../assets/media_fidelidade/questao.png)
 

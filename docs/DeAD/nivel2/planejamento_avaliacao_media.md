@@ -9,15 +9,15 @@ Para evitar o retrabalho iremos avaliar o protótipo de média fidelidade. A ava
 ## Framework DECIDE
 
 <p style="text-indent: 20px; text-align: justify">
-O framework DECIDE orienta o processo de avaliação de IHC, incluindo planejamento, execução e análise de dados. As atividades são interligadas e executadas iterativamente (Barbosa e Silva, 2010). É divido em 6 etapas:
+O framework DECIDE orienta o processo de avaliação de IHC, incluindo planejamento, execução e análise de dados. As atividades são interligadas e executadas iterativamente (Barbosa e Silva, 2010). É dividido em 6 etapas:
 </p>
 
-- Determinar objetivos da avaliação
-- Explorar perguntas a serem respondidas com a avaliação
-- Escolher os métodos de avaliação
-- Identificar e administrar as questões práticas da avaliação
-- Decidir como lidar com as questões éticas
-- Avaliar (Evaluate), interpretar e apresentar os dados
+- Determinar objetivos da avaliação;
+- Explorar perguntas a serem respondidas com a avaliação;
+- Escolher os métodos de avaliação;
+- Identificar e administrar as questões práticas da avaliação;
+- Decidir como lidar com as questões éticas;
+- Avaliar (Evaluate), interpretar e apresentar os dados;
 
 ## Planejamento
 
@@ -25,9 +25,9 @@ O framework DECIDE orienta o processo de avaliação de IHC, incluindo planejame
 
 Objetivos:
 
-- Garantir que a organização das páginas esteja adequada;
+- Garantir que a organização das páginas seja adequada;
 - Garantir que o guia de estilo esteja sendo respeitado;
-- Garantir que o usuário consiga antigir seus objetivos;
+- Garantir que o usuário consiga atingir seus objetivos;
 - Garantir que a interface seja simples e funcional;
 - Garantir que as heurísticas de Nielsen sejam respeitadas;
 - Garantir que o design atual seja adequado ao máximo para o próximo nível do ciclo de Mayhew;
@@ -68,7 +68,7 @@ Não há nenhuma questão ética na avaliação que realizaremos.
 ### Avaliação e relato dos resultados
 
 <p style="text-indent: 20px; text-align: justify">
-Todos os passos da avaliação serão documentados, ou seja, cada etapa do método de avaliação sendo utilizado deverá estar em um documento junto com os resultados obtidos.
+Todos os passos da avaliação serão documentados, ou seja, cada etapa do método de avaliação que está sendo utilizado deverá estar em um documento, juntamente com os resultados obtidos.
 </p>
 
 ## Referências
@@ -79,3 +79,4 @@ Todos os passos da avaliação serão documentados, ou seja, cada etapa do méto
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 11/11/2020 | Criação do documento | Todos os integrantes |
+| 1.1 | 11/11/2020 | Correções ortográficas mínimas | Igor Paiva e Thiago Lopes |
