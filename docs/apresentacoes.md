@@ -15,3 +15,7 @@
 ## 4ª Apresentação - Reengenharia do trabalho e Storyboard
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wlimfggPF-w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 5ª Apresentação - Protótipo de média fidelidade e planejamento da avaliação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7u-7y7awAOI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
