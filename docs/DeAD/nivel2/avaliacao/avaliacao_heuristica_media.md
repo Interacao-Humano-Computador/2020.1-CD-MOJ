@@ -152,3 +152,14 @@ O perfil dos avaliadores condizem com usuários do sistema.
   <u>Efeito sobre a tarefa:</u> Nenhum <br />
   <u>Correção possível:</u> Mudar a <i>home</i> para outra página
 </p>
+
+## 4. Referências Bibliográficas
+
+- BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
+- MACIEL, Cristiano; Nogueira, José; NEUMANN Leandro; GARCIA, Ana. "Avaliação Heurística de Sítios na Web". Instituto de Computação - Universidade Federal Fluminense (UFF).
+
+## Versionamento
+
+| Versão | Data | Modificação | Autor |
+|--|--|--|--|
+| 1.0 | 15/11/2020 | Criação documento | Todos os integrantes |
