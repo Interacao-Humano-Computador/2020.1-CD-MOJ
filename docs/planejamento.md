@@ -60,7 +60,7 @@ Ele possui três fases: análise de requisitos, design/avaliação/desenvolvimen
 
 ### 5.3 Live-sharing:
 <p style="text-indent: 20px; text-align: justify">
-Decidimos que para documentos realizados em conjunto, utilizaremos a ferramenta <a href="https://visualstudio.microsoft.com/pt-br/services/live-share/" target="_blank"><i>Live Share</i></a>. Por meio desta, podemos editar os documentos simultaneamente, facilitando assim o envolvimento coletivo do grupo e poupando-nos tempo.
+Decidimos que para documentos realizados em conjunto, utilizaremos a ferramenta <a class="link" href="https://visualstudio.microsoft.com/pt-br/services/live-share/" target="_blank"><i>Live Share</i></a>. Por meio desta, podemos editar os documentos simultaneamente, facilitando assim o envolvimento coletivo do grupo e poupando-nos tempo.
 </p>
 
 ### 5.4 Avaliação:
