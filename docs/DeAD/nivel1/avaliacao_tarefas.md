@@ -9,7 +9,7 @@
 ## 2. Avaliação
 
 <p style="text-indent: 20px; text-align: justify">
-Para a avaliação da reestruturação das tarefas nós decidimos utilizar um método de inspeção, mais especificamente a técnica de percurso cognitivo, que é um método de avaliação formativa, ou seja, que podemos aplicar durante o processo de design e antes de uma solução concluída (Barbosa e Silva, 2010). As personas utilizadas nesse documento são descritas no <a href="/analise_requisitos/personas/">documento de personas</a>, que representam os usuários do nosso sistema.
+Para a avaliação da reestruturação das tarefas nós decidimos utilizar um método de inspeção, mais especificamente a técnica de percurso cognitivo, que é um método de avaliação formativa, ou seja, que podemos aplicar durante o processo de design e antes de uma solução concluída (Barbosa e Silva, 2010). As personas utilizadas nesse documento são descritas no <a class="link" href="/analise_requisitos/personas/">documento de personas</a>, que representam os usuários do nosso sistema.
 </p>
 
 ### 2.1 Aluno
@@ -462,7 +462,7 @@ Foi diagnosticado que não é necessário nenhum conhecimento a <i>priori</i> pa
 ### 3.3 Conhecimentos adquiridos durante a tarefa
 
 <p style="text-indent: 20px; text-align: justify">
-Durante o uso, o usuário aluno não precisa aprender nada em específico para utilizar o sistema, porém apesar disso, o aprendizado de alguns termos pode deixar o uso mais natural com o decorrer do tempo. No entanto, ao acessar a ferramenta sherlock em um contest específico (<a href="#pcp01-acessar-a-ferramenta-sherlock-em-um-contest-especifico">PCP01</a>) o professor pode precisar de auxílio para identificar algumas funcionalidades do sistema, devido ao nome dado. Mas isso é algo que pode ser aprendido durante o uso.
+Durante o uso, o usuário aluno não precisa aprender nada em específico para utilizar o sistema, porém apesar disso, o aprendizado de alguns termos pode deixar o uso mais natural com o decorrer do tempo. No entanto, ao acessar a ferramenta sherlock em um contest específico (<a class="link" href="#pcp01-acessar-a-ferramenta-sherlock-em-um-contest-especifico">PCP01</a>) o professor pode precisar de auxílio para identificar algumas funcionalidades do sistema, devido ao nome dado. Mas isso é algo que pode ser aprendido durante o uso.
 </p>
 
 ### 3.4 Sugestões de interface
