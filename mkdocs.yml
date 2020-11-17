@@ -33,6 +33,8 @@ pages:
       - Protótipo de Média Fidelidade: DeAD/nivel2/prototipo_media_fidelidade.md
       - Avaliação:
         - Planejamento avaliação protótipo de média fidelidade: DeAD/nivel2/planejamento_avaliacao_media.md
+    - Nível 3:
+      - Protótipo de alta fidelidade: DeAD/nivel3/prototipo_alta.md
   - Apresentações: apresentacoes.md
   #sempre a ultima
   - Atas:
