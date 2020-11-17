@@ -56,12 +56,12 @@ O sistema não deve contar com muitas janelas dada a simplicidade e o contexto d
 ### 3.3 Tipografia
 
 <p style="text-indent: 20px; text-align: justify">
-A fonte que será utilizada ao longo do projeto será a <a href="https://fonts.google.com/specimen/Roboto+Slab#standard-styles" target="_blank">Roboto Slab</a>, projetada por Christian Robertson.
+A fonte que será utilizada ao longo do projeto será a <a class="link" href="https://fonts.google.com/specimen/Roboto+Slab#standard-styles" target="_blank">Roboto Slab</a>, projetada por Christian Robertson.
 </p>
 
 ![Exemplos](../assets/guia_estilo/font_examples.png)
 
-<a href="https://drive.google.com/file/d/1yIb9NlQsHFwIDzKP2aUcbMG4EKajaoQe/view?usp=sharing" target="_blank">Link para a imagem</a>
+<a class="link" href="https://drive.google.com/file/d/1yIb9NlQsHFwIDzKP2aUcbMG4EKajaoQe/view?usp=sharing" target="_blank">Link para a imagem</a>
 
 ### 3.4 Símbolos não tipográficos
 
@@ -86,7 +86,7 @@ As cores escolhidas foram as seguintes:
 
 ![Cores escolhidas](../assets/guia_estilo/colors.jpeg)
 
-<a href="https://drive.google.com/file/d/1bw0B7BmXt0gUnuurVSdCDroVhdmAO-NF/view?usp=sharing" target="_blank">Link para a imagem</a>
+<a class="link" href="https://drive.google.com/file/d/1bw0B7BmXt0gUnuurVSdCDroVhdmAO-NF/view?usp=sharing" target="_blank">Link para a imagem</a>
 
 ### 3.6 Animações
 

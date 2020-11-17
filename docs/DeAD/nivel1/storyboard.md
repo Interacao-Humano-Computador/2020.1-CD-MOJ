@@ -18,19 +18,19 @@ Um protótipo de baixa fidelidade não parece muito com o produto final, e tamb�
 
 ![aluno aprovado](../../assets/storyboard/aluno_accepted.png)
 
-<a href="https://drive.google.com/file/d/1wnP-v-mSOmeXeyJbZhImUvTzWXpT5VNP/view?usp=sharing" target="_blank">link para o storyboard acima</a>
+<a class="link" href="https://drive.google.com/file/d/1wnP-v-mSOmeXeyJbZhImUvTzWXpT5VNP/view?usp=sharing" target="_blank">link para o storyboard acima</a>
 
 #### 2.1.2 Submissão recusada
 
 ![aluno tle](../../assets/storyboard/aluno_tle.png)
 
-<a href="https://drive.google.com/file/d/11AemMwuGuAVBL1u74Ht4jPxaZ8We9vMu/view?usp=sharing" target="_blank">link para o storyboard acima</a>
+<a class="link" href="https://drive.google.com/file/d/11AemMwuGuAVBL1u74Ht4jPxaZ8We9vMu/view?usp=sharing" target="_blank">link para o storyboard acima</a>
 
 #### 2.1.3 Visualizar Scoreboard
 
 ![aluno scoreboard](../../assets/storyboard/aluno_scoreboard.png)
 
-<a href="https://drive.google.com/file/d/1IYJZ7m4bZX8-h2e8pe7f_AooZ1fE0uXd/view?usp=sharing" target="_blank">link para o storyboard acima</a>
+<a class="link" href="https://drive.google.com/file/d/1IYJZ7m4bZX8-h2e8pe7f_AooZ1fE0uXd/view?usp=sharing" target="_blank">link para o storyboard acima</a>
 
 ### 2.2 Professor
 
@@ -38,32 +38,32 @@ Um protótipo de baixa fidelidade não parece muito com o produto final, e tamb�
 
 ![professor contest](../../assets/storyboard/prof_contest.png)
 
-<a href="https://drive.google.com/file/d/11utIyszDhuTjtGKHSG6Ft1y3Bo4AdbCe/view?usp=sharing" target="_blank">link para o storyboard acima</a>
+<a class="link" href="https://drive.google.com/file/d/11utIyszDhuTjtGKHSG6Ft1y3Bo4AdbCe/view?usp=sharing" target="_blank">link para o storyboard acima</a>
 
 #### 2.2.2 Visualizar Estatísticas
 
 ![professor scoreboard](../../assets/storyboard/prof_statistics.png)
 
-<a href="https://drive.google.com/file/d/1cNVW1xLs3nuJF6xv3726_2o2ISaBV2bL/view?usp=sharing" target="_blank">link para o storyboard acima</a>
+<a class="link" href="https://drive.google.com/file/d/1cNVW1xLs3nuJF6xv3726_2o2ISaBV2bL/view?usp=sharing" target="_blank">link para o storyboard acima</a>
 
 #### 2.2.3 Visualizar Submissões
 
 ![professor submissões](../../assets/storyboard/prof_subs.png)
 
-<a href="https://drive.google.com/file/d/1-AGEElcrLXQBObQ_M401fNCvM7g5oKl8/view?usp=sharing" target="_blank">link para o storyboard acima</a>
+<a class="link" href="https://drive.google.com/file/d/1-AGEElcrLXQBObQ_M401fNCvM7g5oKl8/view?usp=sharing" target="_blank">link para o storyboard acima</a>
 
 #### 2.2.4 Visualizar Scoreboard
 
 ![professor scoreboard](../../assets/storyboard/prof_scoreboard.png)
 
-<a href="https://drive.google.com/file/d/1gr9Skvtrm_aJbqf2hyRthv8jxV6XCR9Y/view?usp=sharing" target="_blank">link para o storyboard acima</a>
+<a class="link" href="https://drive.google.com/file/d/1gr9Skvtrm_aJbqf2hyRthv8jxV6XCR9Y/view?usp=sharing" target="_blank">link para o storyboard acima</a>
 
 
 #### 2.2.5 Visualizar Sherlock
 
 ![professor sherlock](../../assets/storyboard/prof_sherlock.png)
 
-<a href="https://drive.google.com/file/d/17NEmqTsFrb9IxVTSUAp7cRJnekyXJAdD/view?usp=sharing" target="_blank">link para o storyboard acima</a>
+<a class="link" href="https://drive.google.com/file/d/17NEmqTsFrb9IxVTSUAp7cRJnekyXJAdD/view?usp=sharing" target="_blank">link para o storyboard acima</a>
 
 
 ## 3. Referências Bibliográficas

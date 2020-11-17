@@ -13,7 +13,7 @@ Para a avaliação dos <i>storyboards</i> nós decidimos utilizar um método de 
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-Foi feita uma avaliação das tarefas do sistema usando a técnica de inspeção de percurso cognitivo. Como o <i>storyboard</i> foi feito utilizando essas tarefas como base, essa avaliação cobre, de certa forma, o <i>storyboard</i>. O documento com a avaliação pode ser encontrado <a href="/DeAD/nivel1/avaliacao_tarefas/" target="_blank">aqui</a>
+Foi feita uma avaliação das tarefas do sistema usando a técnica de inspeção de percurso cognitivo. Como o <i>storyboard</i> foi feito utilizando essas tarefas como base, essa avaliação cobre, de certa forma, o <i>storyboard</i>. O documento com a avaliação pode ser encontrado <a class="link" href="/DeAD/nivel1/avaliacao_tarefas/" target="_blank">aqui</a>
 </p>
 
 Heurísticas de Nielsen:
