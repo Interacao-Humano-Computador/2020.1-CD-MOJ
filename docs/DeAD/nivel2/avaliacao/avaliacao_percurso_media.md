@@ -20,7 +20,7 @@ Essa avaliação foi planejada e o documento de planejamento pode ser encontrado
 
 ### PCA01 - Submeter resposta em um contest privado
 
-Persona: [Breno Carvalho](../../../analise_requisitos/personas/#persona-1) <br />
+Persona: <a class="link" href="../../../../analise_requisitos/personas/#persona-1">Breno Carvalho</a> <br />
 Sistema: CD-MOJ - Protótipo de Média fidelidade <br />
 Tarefa: Submeter resposta em um contest privado
 
@@ -66,7 +66,7 @@ Percurso cognitivo (parcial):
 ---
 ### PCA02 - Submeter resposta em um contest público
 
-Persona: [Breno Carvalho](../../../analise_requisitos/personas/#persona-1) <br />
+Persona: <a class="link" href="../../../../analise_requisitos/personas/#persona-1">Breno Carvalho</a> <br />
 Sistema: CD-MOJ - Protótipo de Média fidelidade <br />
 Tarefa: Submeter resposta em um contest público
 
@@ -112,7 +112,7 @@ Percurso cognitivo (parcial):
 ---
 ### PCA03 - Visualizar score de um contest privado
 
-Persona: [Breno Carvalho](../../../analise_requisitos/personas/#persona-1) <br />
+Persona: <a class="link" href="../../../../analise_requisitos/personas/#persona-1">Breno Carvalho</a> <br />
 Sistema: CD-MOJ - Protótipo de Média fidelidade <br />
 Tarefa: visualizar score de um contest privado
 
@@ -146,7 +146,7 @@ Percurso cognitivo (parcial):
 ---
 ### PCA04 - visualizar score de um contest público
 
-Persona: [Breno Carvalho](../../../analise_requisitos/personas/#persona-1) <br />
+Persona: <a class="link" href="../../../../analise_requisitos/personas/#persona-1">Breno Carvalho</a> <br />
 Sistema: CD-MOJ - Protótipo de Média fidelidade <br />
 Tarefa: visualizar score de um contest público
 
