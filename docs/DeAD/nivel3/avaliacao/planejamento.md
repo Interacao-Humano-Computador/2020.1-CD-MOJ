@@ -72,7 +72,7 @@ Todos os integrantes irão participar do método de avaliação heurística. E, 
 #### Teste de usabilidade
 
 <p style="text-indent: 20px; text-align: justify">
-Já para o teste de usabilidade será necessário 3 participantes, acerca do perfil dos participantes, será escolhido:
+Já para o teste de usabilidade será necessário 3 participantes, 2 homens e 1 mulher para termos um resultado menos enviesado em relação a sexo, acerca do perfil dos participantes, será escolhido:
 </p>
 
 - 1 participante com experiência no uso do sistema e da área de conhecimento de TI.
