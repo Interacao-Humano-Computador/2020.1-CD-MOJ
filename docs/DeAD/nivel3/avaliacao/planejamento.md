@@ -99,6 +99,17 @@ Os participantes selecionados terão que concordar com um termo de consentimento
 
 #### Termo de consentimento
 
+<p style="text-indent: 20px; text-align: justify">
+Para pedir o consetimento de forma remota, nós decidimos criar um formulário no <a class="link" href="https://www.google.com/forms/about/" target="_blank">Google Forms</a>. Com o termo de consetimento e as seguintes seguintes perguntas:
+</p>
+
+- Qual seu nome?
+- Qual seu e-mail?
+- Quando você está respondendo esse formulário?
+- De posse dessas informações, gostaríamos que você se pronunciasse acerca do teste de usabilidade:
+    - (&nbsp;&nbsp;) Dou meu consentimento para a sua realização.
+    - (&nbsp;&nbsp;) Não consinto com a sua realização
+
 <div style="padding: 5px 15px; background: #f8f8f8">
 <p style="text-indent: 20px; text-align: justify">
 Somos uma equipe de consultoria da matéria de Interação Humano Computador na Universidade de Brasília campus Gama, que está participando do projeto do sistema CD-MOJ (Contest Driven Meta-Online Judge). Nessa etapa do projeto, queremos conhecer o que algumas das pessoas que irão usar sistema pensam a respeito do CD-MOJ e como imaginam que o novo sistema deveria apoiar o seu trabalho.
@@ -108,10 +119,10 @@ Estamos realizando uma série de pesquisas, e solicitamos seu consentimento para
 </p>
 
 <ul style="margin-left: 30px">
-<li>Os dados coletados durante a entrevista destinam-se estritamente a atividades de análise e desenvolvimento do sistema CD-MOJ.</li>
+<li>Os dados coletados durante o teste destinam-se estritamente a atividades de análise e desenvolvimento do sistema CD-MOJ.</li>
 <li>Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente. A divulgação desses resultados pauta-se no respeito à sua privacidade, e o anonimato dos participantes será preservado em quaisquer documentos que elaborarmos.</li>
 <li>O consentimento para o teste de usabilidade é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.</li>
-<li>A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.</li>
+<li>O teste pode ser interrompido a qualquer momento, segundo a sua disponibilidade e vontade.</li>
 <li>Nossa equipe encontra-se disponível para contato através do e-mail ihc.req.grupo4.5@gmail.com.</li>
 <ul>
 
@@ -122,11 +133,6 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca do 
 (  ) Dou meu consentimento para a sua realização.<br />
 (  ) Não consinto com a sua realização.
 </p>
-</div>
-
-<div style="margin: 0 auto; text-align: center">
-<< local >>, << data >> <br />
-<< nome do entrevistador >> << nome do entrevistado >>
 </div>
 </div>
 
