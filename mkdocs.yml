@@ -35,6 +35,8 @@ pages:
         - Planejamento avaliação protótipo de média fidelidade: DeAD/nivel2/avaliacao/planejamento_avaliacao_media.md
         - Avaliação heurística do protótipo de média fidelidade: DeAD/nivel2/avaliacao/avaliacao_heuristica_media.md
         - Avaliação de percurso cognitivo do protótipo de média fidelidade: DeAD/nivel2/avaliacao/avaliacao_percurso_media.md
+    - Nível 3:
+      - Protótipo de alta fidelidade: DeAD/nivel3/prototipo_alta.md
   - Apresentações: apresentacoes.md
   #sempre a ultima
   - Atas:
