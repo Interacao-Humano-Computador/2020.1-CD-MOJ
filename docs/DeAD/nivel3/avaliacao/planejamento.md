@@ -72,7 +72,7 @@ Todos os integrantes irão participar do método de avaliação heurística. E, 
 #### Teste de usabilidade
 
 <p style="text-indent: 20px; text-align: justify">
-Já para o teste de usabilidade será necessário 3 participantes, 2 homens e 1 mulher para termos um resultado menos enviesado em relação a sexo, acerca do perfil dos participantes, será escolhido:
+Já para o teste de usabilidade serão necessário 3 participantes, 2 homens e 1 mulher para termos um resultado menos enviesado em relação ao sexo. Acerca do perfil dos participantes, será escolhido:
 </p>
 
 - 1 participante com experiência no uso do sistema e da área de conhecimento de TI.
@@ -100,7 +100,7 @@ Os participantes selecionados terão que concordar com um termo de consentimento
 #### Termo de consentimento
 
 <p style="text-indent: 20px; text-align: justify">
-Para pedir o consetimento de forma remota, nós decidimos criar um formulário no <a class="link" href="https://www.google.com/forms/about/" target="_blank">Google Forms</a>. Com o termo de consetimento e as seguintes seguintes perguntas:
+Para pedir o consentimento de forma remota, nós decidimos criar um formulário no <a class="link" href="https://www.google.com/forms/about/" target="_blank">Google Forms</a>. Com o termo de consentimento e as seguintes seguintes perguntas:
 </p>
 
 - Qual seu nome?
