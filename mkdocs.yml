@@ -8,7 +8,7 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
-pages:
+nav:
   - Sobre: index.md
   - Planejamento: planejamento.md
   - Análise de requisitos:
@@ -32,11 +32,13 @@ pages:
       - Sketch: DeAD/nivel2/sketch.md
       - Protótipo de Média Fidelidade: DeAD/nivel2/prototipo_media_fidelidade.md
       - Avaliação:
-        - Planejamento avaliação protótipo de média fidelidade: DeAD/nivel2/avaliacao/planejamento_avaliacao_media.md
-        - Avaliação heurística do protótipo de média fidelidade: DeAD/nivel2/avaliacao/avaliacao_heuristica_media.md
-        - Avaliação de percurso cognitivo do protótipo de média fidelidade: DeAD/nivel2/avaliacao/avaliacao_percurso_media.md
+        - Planejamento: DeAD/nivel2/avaliacao/planejamento_avaliacao_media.md
+        - Avaliação heurística: DeAD/nivel2/avaliacao/avaliacao_heuristica_media.md
+        - Avaliação de percurso cognitivo: DeAD/nivel2/avaliacao/avaliacao_percurso_media.md
     - Nível 3:
       - Protótipo de alta fidelidade: DeAD/nivel3/prototipo_alta.md
+      - Avaliação:
+        - Planejamento: DeAD/nivel3/avaliacao/planejamento.md
   - Apresentações: apresentacoes.md
   #sempre a ultima
   - Atas:
