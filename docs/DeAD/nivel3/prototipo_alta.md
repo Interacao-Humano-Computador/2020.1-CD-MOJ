@@ -6,9 +6,13 @@
 O protótipo foi produzido utilizando o <a class="link" href="https://www.figma.com/" target="_blank">Figma</a>, e o projeto pode ser acessado <a class="link" href="https://www.figma.com/file/6e0a2PDQNIVhWLBW5MiX7j/Prot%C3%B3tipo-CD-MOJ-Alta?node-id=0%3A1" target="_blank">aqui</a>. E o protótipo interativo pode ser encontrado <a class="link" href="https://www.figma.com/proto/6e0a2PDQNIVhWLBW5MiX7j/Prot%C3%B3tipo-CD-MOJ-Alta?node-id=5%3A7&scaling=min-zoom" target="_blank">aqui</a>.
 </p>
 
-## Protótipo Interativo
+## 1ª versão Protótipo Interativo
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F6e0a2PDQNIVhWLBW5MiX7j%2FProt%25C3%25B3tipo-CD-MOJ-Alta%3Fnode-id%3D5%253A7%26scaling%3Dmin-zoom" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F6e0a2PDQNIVhWLBW5MiX7j%2FProt%25C3%25B3tipo-CD-MOJ-Alta%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
+## 2ª versão Protótipo Interativo
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FjiWdgzEdwwe4FTAqAcKAeR%2FProt%25C3%25B3tipo-CD-MOJ-Alta-Teste%3Fnode-id%3D5%253A7%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 
 ## Home
 
@@ -109,3 +113,4 @@ O protótipo foi produzido utilizando o <a class="link" href="https://www.figma.
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 17/11/2020 | Criação do documento | Todos os integrantes |
+| 2.0 | 24/11/2020 | Adição protótipo melhorado | Todos os integrantes |

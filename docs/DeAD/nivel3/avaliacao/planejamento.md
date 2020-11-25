@@ -72,7 +72,7 @@ Todos os integrantes irão participar do método de avaliação heurística. E, 
 #### Teste de usabilidade
 
 <p style="text-indent: 20px; text-align: justify">
-Já para o teste de usabilidade serão necessário 3 participantes, 2 homens e 1 mulher para termos um resultado menos enviesado em relação ao sexo. Acerca do perfil dos participantes, será escolhido:
+Já para o teste de usabilidade serão necessário 3 participantes, 2 homens e 1 mulher para termos um resultado menos enviesado em relação ao sexo. Nós escolhemos 3 participantes por ser uma quantia pequena, porém considerável, seguimos a recomendação de Krug (Rosa, 2010). Acerca do perfil dos participantes, será escolhido:
 </p>
 
 - 1 participante com experiência no uso do sistema e da área de conhecimento de TI.
@@ -144,6 +144,7 @@ Todos os passos da avaliação serão documentados, ou seja, cada etapa do méto
 
 ## Referências
 
+- ROSA, José. "Avaliação e Projeto no Design de Interfaces". 2AB Editora, 2010.
 - BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
 
 ## Versionamento
