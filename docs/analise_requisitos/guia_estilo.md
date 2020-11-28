@@ -8,12 +8,12 @@ O guia de estilo tem como objetivo ser um guia para a equipe de design e de dese
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-A partir disso, os protótipos do CD-MOJ utilizarão este documento que contém a maioria dos padrões da proposta de uma nova interface do CD-MOJ como guia para a criação da interface.
+A partir disso, os protótipos do CD-MOJ utilizarão este documento, que contém a maioria dos padrões da proposta de uma nova interface do CD-MOJ, como guia para a criação da interface.
 </p>
 
 ### 1.2 Organização e Conteúdo
 <p style="text-indent: 20px; text-align: justify">
-O guia de estilos segue o padrão sugerido por Marcus e Mayhew sendo separado por seis tópicos.
+O guia de estilo segue o padrão sugerido por Marcus e Mayhew sendo separado por seis tópicos.
 </p>
 
 ### 1.3 Público-alvo
@@ -43,7 +43,7 @@ O usuário encontra-se num ambiente voltado para a aprendizagem, deve-se prezar 
 
 ### 3.1 Disposição espacial e grid
 <p style="text-indent: 20px; text-align: justify">
-A disposição espacial do site deve ser responsiva de forma com que um usuário que deseje utilizar o sistema em um aparelho mobile não seja prejudicado durante o seu uso.
+A disposição espacial do site deve ser responsiva de forma que qualquer usuário consiga utilizar o sistema em dispositivos com resoluções distintas. 
 </p>
 
 ![grid](../assets/grid/grid_tela_principal.png)
@@ -110,7 +110,7 @@ Foi escolhido um estilo simples levando em consideração a simplicidade do esco
 
 ### 4.3 Aceleradores
 <p style="text-indent: 20px; text-align: justify">
-Levando em consideração o contexto da aplicação e suas funções, não há necessidade do mesmo em possuir aceleradores.
+Levando em consideração o contexto da aplicação e suas funções, não há necessidade de possuir aceleradores.
 </p>
 
 ## 5. Elementos de ação

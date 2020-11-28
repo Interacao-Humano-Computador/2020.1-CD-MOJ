@@ -3,13 +3,13 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-Com base no ciclo de Mayhew (Barbosa e Silva, 2010), processo de design que estamos utilizando, estamos fazendo a reengenharia do trabalho e com isso reestruturando as tarefas para melhorar o desempenho e satisfação dos usuários. As tarefas do sistema foram analisadas e percebemos algumas falhas e problemas, e então propomos uma nova estrutura para corrigi-las.
+Com base no ciclo de Mayhew (Barbosa e Silva, 2010), processo de design que estamos utilizando, estamos fazendo a reengenharia do trabalho e com isso reestruturando as tarefas para melhorar o desempenho e satisfação dos usuários. As tarefas do sistema foram analisadas e percebemos algumas falhas e problemas, e então propomos uma nova estrutura para corrigí-las.
 </p>
 
 ## 2. Mudanças propostas
 
 <p style="text-indent: 20px; text-align: justify">
-Em ambos os diagramas haviam pequenos problemas na estrutura e na notação utilizada nos diagramas, todos esses problemas também foram resolvidos nos novos diagramas. Abaixo está separado os problemas específicos tanto para as tarefas dos alunos quanto dos professores.
+Em ambos os diagramas haviam pequenos problemas na estrutura e na notação utilizada. Todos esses problemas também foram resolvidos nos novos diagramas. Abaixo está separado os problemas específicos tanto para as tarefas dos alunos quanto dos professores.
 </p>
 
 ## 2.1 Tarefas de aluno

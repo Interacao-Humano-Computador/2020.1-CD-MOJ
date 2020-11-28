@@ -16,7 +16,7 @@ Metas de Usabilidade podem ser divididas em seis objetivos, sendo eles:
 
 - Segurança: envolve proteger o usuário de condições perigosas e situações indesejáveis.
 
-- Utilidade: e refere-se à medida na qual o produto oferece o tipo certo de funcionalidade, de modo que os usuários possam fazer aquilo que precisam ou desejam.
+- Utilidade: refere-se à medida na qual o produto oferece o tipo certo de funcionalidade, de modo que os usuários possam fazer aquilo que precisam ou desejam.
 
 - Aprendizagem: refere-se à facilidade de aprender a usar um sistema.
 
@@ -31,7 +31,7 @@ Metas de Usabilidade podem ser divididas em seis objetivos, sendo eles:
 
 - Segurança: os erros de segurança são decorrentes da falta de reatividade do sistema, a partir disso, nós idealizaremos um design reativo.
 
-- Utilidade: o produto não fornece um conjunto adequado de funções que permitem aos usuários realizar todas suas tarefas da maneira em que desejam ou necessitam. Portanto, funcionalidades faltantes serão idealizadas.
+- Utilidade: o produto não fornece um conjunto adequado de funções que permitem aos usuários realizar todas as suas tarefas da maneira que desejam ou necessitam. Portanto, funcionalidades faltantes serão idealizadas.
 
 - Aprendizagem: o usuário não saberá como utilizar o produto explorando sua interface e experimentando as demais funcionalidades, muitas das atividades necessitam de alguma forma de orientação a mais que o usuário não conseguirá explorando. Portanto, idealizar-se-á uma seção de ajuda ou algo próximo a um tutorial, além de um design de interface intuitivo e amigável.
 
@@ -43,3 +43,4 @@ Metas de Usabilidade podem ser divididas em seis objetivos, sendo eles:
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 11/10/2020 | Criação do documento de metas de usabilidade | Todos os integrantes |
+| 1.1 | 28/11/2020 | Correção dos erros encontrados durante a etapa de validação | Todos os integrantes |
