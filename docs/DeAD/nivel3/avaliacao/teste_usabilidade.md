@@ -16,7 +16,21 @@ As tarefas utilizadas nas sessões foram as mesmas para todos os participantes e
 - **Tarefa 2:** Visualizar um scoreboard e/ou lista de submissões de um contest específico
 - **Tarefa 3:** Baixar uma submissão já enviada
 
-## Sessão 1
+## Sessões
+
+### 1ª sessão
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JEGgXeaamrw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 2ª sessão
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hNOm977NdDg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 3ª sessão
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JEGgXeaamrw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 1ª Sessão
 
 - Número de Avaliadores: 3
 - Nomes de avaliadores: Igor (guia), Thiago Guilherme (observador) e Thiago Lopes (observador)
@@ -24,13 +38,13 @@ As tarefas utilizadas nas sessões foram as mesmas para todos os participantes e
 
 ### Dados
 
-- Responder uma questão de um contest específico
+- **Responder uma questão de um contest específico**
     - Tempo gasto: 1 minuto e 45 segundos (+/- 20s)
     - Número de erros: 0
-- Visualizar um scoreboard e/ou lista de submissões de um contest específico
+- **Visualizar um scoreboard e/ou lista de submissões de um contest específico**
     - Tempo gasto: 1 minuto e 4 segundos (+/- 15s)
     - Número de erros: 0
-- Baixar uma submissão já enviada
+- **Baixar uma submissão já enviada**
     - Tempo gasto: 30 segundos (+/- 5s)
     - Número de erros: 1
     
@@ -45,7 +59,24 @@ As tarefas utilizadas nas sessões foram as mesmas para todos os participantes e
     - Quando foi solicitada sobre acessar o *scoreboard* e/ou lista de submissões, não acessou o scoreboard
     - Acessou um contest público ao invés do contest privado
 
-## Sessão 2
+### Entrevista pós-teste
+
+- **Qual foi sua experiência com esse teste de usabilidade?**
+    - No geral a experiência foi boa.
+- **De maneira geral, como você avalia a interface do site?**
+    - "Simples, achei bem simples, mas no sentido de ser intuitivo". 
+- **Teve alguma dificuldade? Se sim qual(is)?**
+    - Dificuldade de voltar para a página inicial.
+- **A interface é agradável?**
+    - "Sim, ela é bem agradável, bem limpa".
+- **A interface está bem organizada?**
+    - "Sim, muito bem organizada".
+- **As opções disponíveis são de fácil acesso?**
+    - "Sim, são de fácil acesso, a plataforma está bem intuitiva".
+- **Alguma dica, crítica e/ou sugestão?**
+    - A primeira opção (CD-MOJ) da barra de tarefas (header) deveria mandar para a página inicial (home)
+
+## 2ª Sessão
 
 - Número de Avaliadores: 3
 - Nomes de avaliadores: Thiago Lopes (guia), Marcelo (observador) e Rhuan (observador)
@@ -53,13 +84,13 @@ As tarefas utilizadas nas sessões foram as mesmas para todos os participantes e
 
 ### Dados
 
-- Responder uma questão de um contest específico
+- **Responder uma questão de um contest específico**
     - Tempo gasto: 55 segundos (+/- 5s)
     - Número de erros: 0
-- Visualizar um scoreboard e/ou lista de submissões de um contest específico
+- **Visualizar um scoreboard e/ou lista de submissões de um contest específico**
     - Tempo gasto: 19 segundos (+/- 1s)
     - Número de erros: 0
-- Baixar uma submissão já enviada
+- **Baixar uma submissão já enviada**
     - Tempo gasto: 1 minuto e 45 segundos segundos (+/- 1s)
     - Número de erros: 1
 
@@ -73,7 +104,24 @@ As tarefas utilizadas nas sessões foram as mesmas para todos os participantes e
     - O participante gastou muito tempo procurando onde baixar a questão. Com isso o participante acabou descobrindo algumas limitações do protótipo
     - O participante visualizou a ajuda sobre a pontuação no scoreboard
 
-## Sessão 3
+### Entrevista pós-teste
+
+- **Qual foi sua experiência com esse teste de usabilidade?**
+    - "De maneira geral foi bem tranquila", em seguida o participante comenta que seria mais intuitivo se tivesse alguma forma de baixar uma questão dentro da própria página da questão do contest
+- **De maneira geral, como você avalia a interface do site?**
+    - "Eu acredito que é simples e intuitiva", "Gostei da palheta de cores, esses tons de azul e branco sempre caem bem", em seguida o participante também comenta que as cores que representam uma ação de sucesso ou falha também estão intuitivas
+- **Teve alguma dificuldade? Se sim qual(is)?**
+    - "Como eu disse foi só um erro de intuição mesmo enquanto realizava a tarefa 3", em seguida ele comenta que não foi uma dificuldade mas sim algo relacionado a sua intuição
+- **A interface é agradável?**
+    - "Sim, sim, sim, bastante agradável"
+- **A interface está bem organizada?**
+    - "Acreditei que está bem organizada", "Está simples e organizada", "Consigo acessar o que eu quero de forma bem rápido e simples, então de uma maneira geral está bem organizado"
+- **As opções disponíveis são de fácil acesso?**
+    - "São, são, são de fácil acesso"
+- **Alguma dica, crítica e/ou sugestão?**
+    - "Acho que sugestão, eu daria a opção pra baixar a questão também nas pastas onde se submete"
+
+## 3ª Sessão
 
 - Número de Avaliadores: 3
 - Nomes de avaliadores: Rhuan (guia), Marcelo (observador) e Thiago Guilherme (observador)
@@ -81,13 +129,13 @@ As tarefas utilizadas nas sessões foram as mesmas para todos os participantes e
 
 ### Dados
 
-- Responder uma questão de um contest específico
+- **Responder uma questão de um contest específico**
     - Tempo gasto: 41 segundos (+/- 1s)
     - Número de erros: 1
-- Visualizar um scoreboard e/ou lista de submissões de um contest específico
+- **Visualizar um scoreboard e/ou lista de submissões de um contest específico**
     - Tempo gasto: 35 segundos (+/- 1s)
     - Número de erros: 0
-- Baixar uma submissão já enviada
+- **Baixar uma submissão já enviada**
     - Tempo gasto: 30 segundos segundos (+/- 1s)
     - Número de erros: 0
 
@@ -97,6 +145,23 @@ As tarefas utilizadas nas sessões foram as mesmas para todos os participantes e
     - O participante se sentiu levemente perdido no contexto de realizar o *Login* no sistema
 - Thiago:
     - Não foram encontradas nenhuma dificuldade significativa
+
+### Entrevista pós-teste
+
+- **Qual foi sua experiência com esse teste de usabilidade?**
+    - "Bem eu achei um site muito agradável", "Acho que foi relativamente fácil de fazer as atividades, assim, os ícones são bem naturais, é como a maioria dos sites eu diria"
+- **De maneira geral, como você avalia a interface do site?**
+    - "O moj é uma aplicação visualmente simples, não tem tantas coisas"
+- **Teve alguma dificuldade? Se sim qual(is)?**
+    - O participante comentou que poderia ter tido uma possível dificuldade para encontrar a tabela de submissões, mas comentou que seria achado facilmente
+- **A interface é agradável?**
+    - "Sim, sim, eu gostei"
+- **A interface está bem organizada?**
+    - "Sim, sim"
+- **As opções disponíveis são de fácil acesso?**
+    - "Eu achei tudo fácil mesmo"
+- **Alguma dica, crítica e/ou sugestão?**
+    - "O melhor é não acrescentar coisas, além do que necessita sabe"
 
 ## Interpretação dos resultados quantitativos
 
