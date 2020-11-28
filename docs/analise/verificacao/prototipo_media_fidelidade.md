@@ -17,7 +17,7 @@
 
 ## 2. Acompanhamento
 
-Os erros encontrados não foram corrigidos ainda.
+Todos os erros encontrados foram corrigidos
 
 ## 3. Referências
 
