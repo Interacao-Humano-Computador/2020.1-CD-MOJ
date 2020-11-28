@@ -8,7 +8,7 @@ Este documento apresenta o planejamento do projeto, descreveremos aqui as etapas
 
 ## 2. Lista de sites avaliados
 
-- [CD-MOJ](https://drive.google.com/file/d/1Yhk0dQYy06kK8HR1fIICJGSJN-zHjIGY/view?usp=sharing) - Igor Batista
+- <a class="link" href="https://drive.google.com/file/d/1Yhk0dQYy06kK8HR1fIICJGSJN-zHjIGY/view?usp=sharing" target="_blank">CD-MOJ</a> - Igor Batista
 - MPU - Marcelo Victor
 - SIGAA - Thiago Lopes
 - UVA OJ - Thiago Guilherme
