@@ -20,37 +20,37 @@ O protótipo foi produzido utilizando o <a class="link" href="https://www.figma.
 
 ![Home](../../assets/alta_fidelidade/home.png)
 
-<a class="link" href="https://drive.google.com/file/d/1n7iQ0bHLwrrQQDnEX_U4ixDxhtNZqlNW/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/12JMH0qjJN3mj0-9v8TU3wt1XH2RcSsVL/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ### Home classificar aberto
 
 ![Contests](../../assets/alta_fidelidade/home_dropdown_classificar.png)
 
-<a class="link" href="https://drive.google.com/file/d/1VbsddYWnqNqc3bWiJC53j9k-ALY0kaIa/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/1tf5YZVHF4DEkwMy62WzVB0XitmBkgVzC/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ### FAQ
 
 ![FAQ](../../assets/alta_fidelidade/FAQ.png)
 
-<a class="link" href="https://drive.google.com/file/d/13qB_A3Naqe45cum_m_M5NEn6xacqleQN/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/1Q9me0v9UOtdTKpzFzUnaQmOMVi5463vU/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ### Sobre nós
 
 ![About](../../assets/alta_fidelidade/sobre.png)
 
-<a class="link" href="https://drive.google.com/file/d/1PA9syR-s3iRZaObtMQ0uUghuhsLNogfi/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/1eFJzj9q2bEm4qqkMVn95raI3oe9lZLe9/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ### Últimas novidades
 
 ![Novidades](../../assets/alta_fidelidade/novidades.png)
 
-<a class="link" href="https://drive.google.com/file/d/1bEaOBFBjorXYMi9vAC8IfC51y1RA7NWk/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/1MUqnsrzvmTZ51GuhthoIHMMviJhfBvQA/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ### Login
 
 ![Novidades](../../assets/alta_fidelidade/login.png)
 
-<a class="link" href="https://drive.google.com/file/d/1Il85oLgz6z0ILRuc0hiZP8COfSo1TMkj/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/1EifcWIgJ3qm43Qpzg2Pely7rIkN6wHhG/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ### Contests logado
 
@@ -62,67 +62,67 @@ O protótipo foi produzido utilizando o <a class="link" href="https://www.figma.
 
 ![Novidades](../../assets/alta_fidelidade/meus_contests_dropdown.png)
 
-<a class="link" href="https://drive.google.com/file/d/1EKXD253LyhH1fjbyxjHjT9IQ8CTPh9qV/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/1kFa_Xve9aQuS6tYMxIcpTlsI-_ski5tt/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ### Dentro do contest
 
 ![Constest](../../assets/alta_fidelidade/contest.png)
 
-<a class="link" href="https://drive.google.com/file/d/1qVeBj3S7b0jXy3Qdgu4qsoniGUsS_PTC/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/114AQCeCRRxZK7AZt5qZ96tp4wYrtihrn/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ### Dentro do contest com legenda
 
 ![Constest](../../assets/alta_fidelidade/contest_info.png)
 
-<a class="link" href="https://drive.google.com/file/d/1WEpjbFXqoyGhLd5od1KQjhRitr3iVk1R/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/10M8lpbbxtgfdRW8wSJtxGFgJ98eVKjpE/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ### Dentro do contest com tooltip de baixar submissão
 
 ![Constest](../../assets/alta_fidelidade/contest_tooltip.png)
 
-<a class="link" href="https://drive.google.com/file/d/1WEpjbFXqoyGhLd5od1KQjhRitr3iVk1R/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/1qDfF6SXqmouj_kv6N94beYw-cIKcv0OM/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ### Scoreboard
 
 ![Scoreboard](../../assets/alta_fidelidade/scoreboard.png)
 
-<a class="link" href="https://drive.google.com/file/d/1dPdgLOILLFeCMyepo0GZn9SZVNBsRbUp/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/1Wz2a6ahAQKFxpD4a5atAN1Qy2kFB5qry/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ### Scoreboard com tooltip de legenda
 
 ![Scoreboard](../../assets/alta_fidelidade/scoreboard_info.png)
 
-<a class="link" href="https://drive.google.com/file/d/1hrJ22YngpuAJLK8ljX9CrJJM53pjGi0h/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/1Wmik-nK3E-A2pyWFq70-9xK8uj3lDGy7/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ### Questão padrão
 
 ![Questão](../../assets/alta_fidelidade/questao.png)
 
-<a class="link" href="https://drive.google.com/file/d/1k4l4yuFvbj7F0ClwsPBBoOXOyohbdjcD/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/1AUamzVdOZk2nErmaD9pWoEcSLNnE3tcy/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ### Questão com modal de sucesso
 
 ![Questão](../../assets/alta_fidelidade/questao_envio_aprovado.png)
 
-<a class="link" href="https://drive.google.com/file/d/1k4l4yuFvbj7F0ClwsPBBoOXOyohbdjcD/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/1QpJOAjJoqRon_P5pWkFU-QvdhYMIIkpV/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ### Questão com as informações ocultadas
 
 ![Questão](../../assets/alta_fidelidade/questao_estado2.png)
 
-<a class="link" href="https://drive.google.com/file/d/1DfaIBVMsCMv5hTo06fB9wDmxUdYjndFj/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/16MkvROgTTOqWuDKvOi4V1ZhHM33RO8Ml/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ### Questão com o código fonte ocultado
 
 ![Questão](../../assets/alta_fidelidade/questao_estado4.png)
 
-<a class="link" href="https://drive.google.com/file/d/1DfaIBVMsCMv5hTo06fB9wDmxUdYjndFj/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/1PDRh9s4ch__Pjt9cbc2bKUziNHsN7SeP/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ### Questão com as informações e código fonte ocultado
 
 ![Questão](../../assets/alta_fidelidade/questao_estado3.png)
 
-<a class="link" href="https://drive.google.com/file/d/1xWutHSSroA_ebPr-dHAVN-3JBeGhCd1x/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/1POTRbf_FMaNBcPAdldCOcUYf68cXQd-8/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ## Referências
 
