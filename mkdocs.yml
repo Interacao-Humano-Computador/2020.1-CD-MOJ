@@ -40,6 +40,19 @@ nav:
       - Avaliação:
         - Planejamento: DeAD/nivel3/avaliacao/planejamento.md
         - Preparação teste de usabilidade: DeAD/nivel3/avaliacao/prep_teste_usabilidade.md
+  - Análise:
+    - Verificação:
+      - Planejamento: analise/verificacao/planejamento.md
+      - Personas: analise/verificacao/personas.md
+      - Metas de Usabilidade: analise/verificacao/meta_de_usabilidade.md
+      - Guia de estilo: analise/verificacao/guia_de_estilo.md
+      - Reengenharia do Trabalho: analise/verificacao/reengenharia.md
+      - Storyboard: analise/verificacao/storyboard.md
+      - Sketch: analise/verificacao/sketch.md
+      - Protótipo de Média Fidelidade: analise/verificacao/prototipo_media_fidelidade.md
+      - Protótipo de Alta Fidelidade: analise/verificacao/prototipo_alta_fidelidade.md
+    - Validação:
+        - Validação Informal: analise/validacao_informal.md
   - Apresentações: apresentacoes.md
   #sempre a ultima
   - Atas:
