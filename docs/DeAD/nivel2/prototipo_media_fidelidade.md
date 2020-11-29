@@ -12,61 +12,61 @@ O protótipo pode ser encontrado <a class="link" href="https://www.figma.com/fil
 
 ![Home](../../assets/media_fidelidade/home.png)
 
-<a class="link" href="https://drive.google.com/file/d/149UDhfQJnqlH8EftY19eA05lLSeCYXj1/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/1VVt7PFKCcFCOoNZm9FY69SGZXzigP3Ep/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ## Contests
 
 ![Contests](../../assets/media_fidelidade/contests.png)
 
-<a class="link" href="https://drive.google.com/file/d/1Mo3gM_Wh_2rE_KMNSLyBPfRVLcyaDDIv/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/16eopdsqeB7f1LHVgWAZd3gqU06iRS1cP/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ## FAQ
 
 ![FAQ](../../assets/media_fidelidade/FAQ.png)
 
-<a class="link" href="https://drive.google.com/file/d/1Yy68Ff8YT8uHzCLqErtiQ-dNSyod-YdD/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/1gltuN7N1iF99nEu_3yn6tVOzQ6oE81W5/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ## Sobre nós
 
 ![About](../../assets/media_fidelidade/sobre.png)
 
-<a class="link" href="https://drive.google.com/file/d/1nYJPERRvHKOPpy7Zl_Dclq6ACVzzioF3/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/1N5szJOjMPayc2tORfThgWa2wGQLoe-dU/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ## Últimas novidades
 
 ![Novidades](../../assets/media_fidelidade/novidades.png)
 
-<a class="link" href="https://drive.google.com/file/d/19D3XlGbH4eM2zFTf7n8aANt5q5D_E6tA/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/15oYbuG9x9bfHgM_zPvOGGkN8CM6hQ6Ar/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ## Dentro do contest
 
 ![Constest](../../assets/media_fidelidade/contest.png)
 
-<a class="link" href="https://drive.google.com/file/d/10050cYALDhCMievaZn25HlROKlrz_o7m/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/1NyqgV-FZ09dJIkvGuz1v9JZGp40AnyiB/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ## Questão padrão
 
 ![Questão](../../assets/media_fidelidade/questao.png)
 
-<a class="link" href="https://drive.google.com/file/d/1E--DzrYu8onRYPHzFO2sC_rXKt-bCGLN/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/183ONnJul8HipVM5I9c32hJHt4ImPrYok/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ## Questão com as informações ocultadas
 
 ![Questão](../../assets/media_fidelidade/questao_estado_02.png)
 
-<a class="link" href="https://drive.google.com/file/d/1E--DzrYu8onRYPHzFO2sC_rXKt-bCGLN/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/1GT25LfFcf2tz9rNisYUIi-P7sLIhXT0j/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ## Questão com as informações e código fonte ocultado
 
 ![Questão](../../assets/media_fidelidade/questao_estado_03.png)
 
-<a class="link" href="https://drive.google.com/file/d/1E--DzrYu8onRYPHzFO2sC_rXKt-bCGLN/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/16t_s054_VtLXhVBDTbP5a-U4wXUCqp8D/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ## Scoreboard
 
 ![Scoreboard](../../assets/media_fidelidade/scoreboard.png)
 
-<a class="link" href="https://drive.google.com/file/d/1k0RHMqXRhxUraRh1Cj5wSaeB4mH3yz9x/view?usp=sharing" target="_blank">link para a imagem acima</a>
+<a class="link" href="https://drive.google.com/file/d/13P7cEEp8KqjKgnpTBOuuJhMGlOwgNcdC/view?usp=sharing" target="_blank">link para a imagem acima</a>
 
 ## Referências
 

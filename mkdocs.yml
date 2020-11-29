@@ -43,8 +43,21 @@ nav:
         - Avaliação Heurística: DeAD/nivel3/avaliacao/avaliacao_heuristica.md
         - Teste de usabilidade: DeAD/nivel3/avaliacao/teste_usabilidade.md
         - Relato geral da avaliação: DeAD/nivel3/avaliacao/relato_geral.md
+  - Análise:
+    - Verificação:
+      - Planejamento: analise/verificacao/planejamento.md
+      - Personas: analise/verificacao/personas.md
+      - Metas de Usabilidade: analise/verificacao/meta_de_usabilidade.md
+      - Guia de estilo: analise/verificacao/guia_de_estilo.md
+      - Reengenharia do Trabalho: analise/verificacao/reengenharia.md
+      - Storyboard: analise/verificacao/storyboard.md
+      - Sketch: analise/verificacao/sketch.md
+      - Protótipo de Média Fidelidade: analise/verificacao/prototipo_media_fidelidade.md
+      - Protótipo de Alta Fidelidade: analise/verificacao/prototipo_alta_fidelidade.md
+    - Validação:
+        - Validação Informal: analise/validacao_informal.md
   - Apresentações: apresentacoes.md
-  #sempre a ultima
+  # sempre a ultima
   - Atas:
       - 30/09/2020: atas/reuniao-30-09-2020.md
       - 19/10/2020: atas/reuniao-19-10-2020.md
