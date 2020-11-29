@@ -1,4 +1,4 @@
-# Avaliação Heurística do Protótipo de Média Fidelidade
+# Avaliação Heurística do Protótipo de Alta Fidelidade
 
 ## 1. Introdução
 

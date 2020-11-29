@@ -17,7 +17,7 @@ A inspeção é um processo de revisão formal de software e corresponde a uma d
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-Utilizaremos as técnicas de ad-hoc ou checklist ao documento que julgarmos necessário.
+Utilizaremos as técnicas de leitura Ad-Hoc e/ou Check-list aos documentos que julgarmos necessário.
 </p>
 
 
@@ -81,4 +81,4 @@ Os papéis ocupados pelos participantes da metodologia são definidos em cada do
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 04/11/2020 | Criação do documento de planejamento | Todos os integrantes |
+| 1.0 | 29/11/2020 | Criação do documento de planejamento | Todos os integrantes |
