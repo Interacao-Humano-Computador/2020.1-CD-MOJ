@@ -2,6 +2,10 @@
 
 Este repositório é destinado ao grupo 4 - [**CD-MOJ**](https://moj.naquadah.com.br/), contém toda a documentação do projeto da disciplina de Interação Humano Computador, ministrado pelo professor André Barros, na Universidade de Brasília - Gama, durante o período 2020/1.
 
+# Protótipo alta fidelidade
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FjiWdgzEdwwe4FTAqAcKAeR%2FProt%25C3%25B3tipo-CD-MOJ-Alta-Teste%3Fnode-id%3D5%253A7%26scaling%3Dmin-zoom" allowfullscreen></iframe>
+
 <br />
 
 # Contribuidores
