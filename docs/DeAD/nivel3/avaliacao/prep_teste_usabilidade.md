@@ -24,7 +24,7 @@ As demais "tarefas" como acessar a FAQ, sobre nós e últimas novidades não sã
 
 **Responder uma questão de um contest específico:** Você acabou de chegar em casa, de volta da faculdade. Você lembra que há uma lista de exercícios da disciplina de programação que deve ser entregue hoje. Você então vai ao seu computador, liga-o e acessa o site.
 
-**Visualizar um scoreboard e/ou lista de submissões de um contest específico:** Você acabou de deitar para dormir, mas um pensamento inconveniente lhe vem a cabeça: “será que eu enviei as resposta da lista?”. Incapaz de dormir você abre o site e vai olhar suas submissões (caso existam).
+**Visualizar um scoreboard e/ou lista de submissões de um contest específico:** Você acabou de deitar para dormir, mas um pensamento inconveniente lhe vem a cabeça: “será que eu enviei as respostas da lista?”. Incapaz de dormir você abre o site e vai olhar suas submissões (caso existam).
 
 **Baixar uma submissão já enviada:**  1 mês após enviar uma submissão, você deseja tornar seu código mais eficiente, mas se lembra que formatou o seu computador. No entanto, você se lembra que há uma maneira de fazer o download da sua submissão no site. Dessa forma, você liga seu computador, e acessa o site.
 
