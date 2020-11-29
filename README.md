@@ -4,7 +4,7 @@ Este repositório é destinado ao grupo 4 - [**CD-MOJ**](https://moj.naquadah.co
 
 # Protótipo alta fidelidade
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FjiWdgzEdwwe4FTAqAcKAeR%2FProt%25C3%25B3tipo-CD-MOJ-Alta-Teste%3Fnode-id%3D5%253A7%26scaling%3Dmin-zoom" allowfullscreen></iframe>
+Nosso interativo protótipo de alta fidelidade pode ser acessado <a href="https://www.figma.com/file/jiWdgzEdwwe4FTAqAcKAeR/Prot%C3%B3tipo-CD-MOJ-Alta-2a-vers%C3%A3o?node-id=0%3A1" target="_blank">aqui</a>.
 
 <br />
 
