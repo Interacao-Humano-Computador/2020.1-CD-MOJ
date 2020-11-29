@@ -6,8 +6,6 @@ Este repositório é destinado ao grupo 4 - [**CD-MOJ**](https://moj.naquadah.co
 
 Nosso interativo protótipo de alta fidelidade pode ser acessado <a href="https://www.figma.com/file/jiWdgzEdwwe4FTAqAcKAeR/Prot%C3%B3tipo-CD-MOJ-Alta-2a-vers%C3%A3o?node-id=0%3A1" target="_blank">aqui</a>.
 
-<br />
-
 # Contribuidores
 
 |Foto | Matrícula | Nome | GitHub | E-mail|
