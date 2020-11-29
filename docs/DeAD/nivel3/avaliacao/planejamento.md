@@ -40,7 +40,7 @@ Perguntas a serem respondidas:
 
 - O sistema é eficaz?
 - O sistema é eficiente?
-- O sistema segurança?
+- O sistema é seguro?
 - O sistema é útil?
 - O sistema é apreendível?
 - Uma vez aprendido, as funcionalidades do sistema são de fácil lembraça?

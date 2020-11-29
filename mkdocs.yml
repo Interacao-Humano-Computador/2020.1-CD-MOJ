@@ -40,6 +40,9 @@ nav:
       - Avaliação:
         - Planejamento: DeAD/nivel3/avaliacao/planejamento.md
         - Preparação teste de usabilidade: DeAD/nivel3/avaliacao/prep_teste_usabilidade.md
+        - Avaliação Heurística: DeAD/nivel3/avaliacao/avaliacao_heuristica.md
+        - Teste de usabilidade: DeAD/nivel3/avaliacao/teste_usabilidade.md
+        - Relato geral da avaliação: DeAD/nivel3/avaliacao/relato_geral.md
   - Apresentações: apresentacoes.md
   #sempre a ultima
   - Atas:
