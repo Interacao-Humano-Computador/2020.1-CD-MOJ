@@ -28,7 +28,7 @@ As tarefas utilizadas nas sessões foram as mesmas para todos os participantes e
 
 ### 3ª sessão
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JEGgXeaamrw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kSCvZ6zcs4o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 1ª Sessão
 

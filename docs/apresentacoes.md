@@ -23,3 +23,7 @@
 ## 6ª Apresentação - Protótipo de Alta Fidelidade & Planejamento da Avaliação
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L28FH9BBdHo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 7ª Apresentação - Apresentação Final
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ngj8VrMBxVA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
