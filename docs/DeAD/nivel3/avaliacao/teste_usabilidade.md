@@ -192,7 +192,7 @@ A média para a realização da tarefa foi de 39 segundos (+/- 17 segundos). E o
 </p>
 
 <p style="text-indent: 20px; text-align justify">
-É possível concluir que há uma curva de aprendizado não muito acentuada em relação a segunda tarefa, porém o usuário sem experiência no sistema conclui a tarefa mais rapidamente, temos então um erro aleatório grande na medida.
+É possível concluir que há uma curva de aprendizado não muito acentuada em relação a segunda tarefa, porém o usuário sem experiência no sistema concluiu a tarefa mais rapidamente, temos então uma diferença grande nas medidas.
 </p>
 
 ### Tarefa 3
@@ -208,15 +208,17 @@ A média para a realização da tarefa foi de 55 segundos (+/- 7 segundos). E o 
 - Página inicial ser a página de contests públicos
     - **local onde ocorreu:** em todo o protótipo
     - **descrição e justificativa:** é um problema pois causa confusão sobre aonde procurar os contests
-    - **efeito sobre o usuário e tarefa:** confusão e atraso
-    - **sugestões de solução:** mudar a home para a página de últimas novidades
+    - **efeito sobre o usuário:** confusão
+    - **efeito sobre a tarefa:** atraso
+    - **sugestões de solução:** mudar a home para a página de últimas novidades ou criar uma nova página para ser a home
 
 ### Tarefa 1
 
 - Botão "CD-MOJ" na barra principal não redireciona para a home
     - **local onde ocorreu:** no header
     - **descrição e justificativa:** não redirecionar para a home
-    - **efeito sobre o usuário e tarefa:** confusão
+    - **efeito sobre o usuário:** confusão
+    - **efeito sobre a tarefa:** nenhum
     - **sugestões de solução:** fazer o botão redirecionar para home
 
 ### Tarefa 2
@@ -224,13 +226,15 @@ A média para a realização da tarefa foi de 55 segundos (+/- 7 segundos). E o 
 - Não é claro inicialmente aonde encontrar as submissões
     - **local onde ocorreu:** na tela de questões
     - **descrição e justificativa:** por muitas vezes a tabela é cortada exibindo apenas o titulo. E falta de caminhos alternativos para a realização da tarefa.
-    - **efeito sobre o usuário e tarefa:** atraso na realização da tarefa
+    - **efeito sobre o usuário:** confusão
+    - **efeito sobre a tarefa:** atraso
     - **sugestões de solução:** manter a tabela de submissões na página de contest, mas adicionar um botão na tela de questão que abre uma modal (caixa de diálogo) na qual as submissões dessa questão são listadas. Possivelmente colocar da mesma forma do botão de scoreboard no contest um botão que abre a mesma modal citada anteriormente
 
 - Não é claro inicialmente aonde encontrar ajuda sobre a pontuação no scoreboard
     - **local onde ocorreu:** na tela de scoreboard
     - **descrição e justificativa:** poucos participantes encontraram o que cada pontuação representa.
-    - **efeito sobre o usuário e tarefa:** dificuldade na interpretação dos dados apresentados, levando a atraso
+    - **efeito sobre o usuário:** dificuldade na interpretação dos dados apresentados
+    - **efeito sobre a tarefa:** Atraso
     - **sugestões de solução:** colocar um ícone que representa ajuda "?" do lado do cabeçalho de pontos que mostra como visualizar e compreender os dados.
 
 ### Tarefa 3
@@ -238,7 +242,8 @@ A média para a realização da tarefa foi de 55 segundos (+/- 7 segundos). E o 
 - Opção de baixar presente apenas na página do contest
     - **local onde ocorreu:** na tela de contest e questão
     - **descrição e justificativa:** opção de baixar presente apenas na página do contest
-    - **efeito sobre o usuário e tarefa:** confusão e atraso
+    - **efeito sobre o usuário:** confusão
+    - **efeito sobre a tarefa:** atraso
     - **sugestões de solução:** adicionar opção de baixar a última submissão enviada no nome do arquivo listado na página de questão. E também deixar a opção de baixar na modal citada na solução do problema de submissões na tarefa 2.
 
 ## Referências

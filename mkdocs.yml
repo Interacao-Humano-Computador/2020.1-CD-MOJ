@@ -35,6 +35,7 @@ nav:
         - Planejamento: DeAD/nivel2/avaliacao/planejamento_avaliacao_media.md
         - Avaliação heurística: DeAD/nivel2/avaliacao/avaliacao_heuristica_media.md
         - Avaliação de percurso cognitivo: DeAD/nivel2/avaliacao/avaliacao_percurso_media.md
+        - Relato geral: DeAD/nivel2/avaliacao/relato_geral.md
     - Nível 3:
       - Protótipo de alta fidelidade: DeAD/nivel3/prototipo_alta.md
       - Avaliação:
@@ -42,7 +43,7 @@ nav:
         - Preparação teste de usabilidade: DeAD/nivel3/avaliacao/prep_teste_usabilidade.md
         - Avaliação Heurística: DeAD/nivel3/avaliacao/avaliacao_heuristica.md
         - Teste de usabilidade: DeAD/nivel3/avaliacao/teste_usabilidade.md
-        - Relato geral da avaliação: DeAD/nivel3/avaliacao/relato_geral.md
+        - Relato geral: DeAD/nivel3/avaliacao/relato_geral.md
   - Análise:
     - Verificação:
       - Planejamento: analise/verificacao/planejamento.md
