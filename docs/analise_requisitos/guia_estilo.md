@@ -66,27 +66,39 @@ A fonte que será utilizada ao longo do projeto será a <a class="link" href="ht
 ### 3.4 Símbolos não tipográficos
 
 <p style="text-indent: 20px; text-align: justify">
-Como atualmente o CD-MOJ não apresenta símbolos não tipográficos, fizemos uma seleção de possíveis símbolos que poderão ser usados levando em conta o contexto de uso da aplicação.
+Como atualmente o CD-MOJ não apresenta símbolos não tipográficos, fizemos uma seleção de possíveis símbolos que poderão ser usados levando em conta o contexto de uso da aplicação. Todos esses ícones são do <a href="https://material.io/resources/icons/" target="_blank">Material Icons</a>.
 </p>
 
-| Ícones | | | | | |
-|--|--|--|--|--|--|
-| ![](../assets/icons/accessibility-black-18dp/2x/baseline_accessibility_black_18dp.png) | ![](../assets/icons/announcement-black-18dp/2x/baseline_announcement_black_18dp.png) | ![](../assets/icons/bug_report-black-18dp/2x/baseline_bug_report_black_18dp.png) | ![](../assets/icons/check_circle_outline-black-18dp/2x/baseline_check_circle_outline_black_18dp.png) | ![](../assets/icons/edit-black-18dp/2x/baseline_edit_black_18dp.png) | ![](../assets/icons/event_available-black-18dp/2x/baseline_event_available_black_18dp.png) |
-| ![](../assets/icons/event_busy-black-18dp/2x/baseline_event_busy_black_18dp.png) | ![](../assets/icons/get_app-black-18dp/2x/baseline_get_app_black_18dp.png) | ![](../assets/icons/highlight_off-black-18dp/2x/baseline_highlight_off_black_18dp.png) | ![](../assets/icons/home-black-18dp/2x/baseline_home_black_18dp.png) | ![](../assets/icons/login-black-18dp/2x/baseline_login_black_18dp.png) | ![](../assets/icons/notifications_active-black-18dp/2x/baseline_notifications_active_black_18dp.png) |
-| ![](../assets/icons/notifications_none-black-18dp/2x/baseline_notifications_none_black_18dp.png) | ![](../assets/icons/notifications-black-18dp/2x/baseline_notifications_black_18dp.png) | ![](../assets/icons/publish-black-18dp/2x/baseline_publish_black_18dp.png) | ![](../assets/icons/report-black-18dp/2x/baseline_report_black_18dp.png) | ![](../assets/icons/save_alt-black-18dp/2x/baseline_save_alt_black_18dp.png) | ![](../assets/icons/today-black-18dp/2x/baseline_today_black_18dp.png) |
-| ![](../assets/icons/account_circle-black-18dp/2x/baseline_account_circle_black_18dp.png) | ![](../assets/icons/computer-black-18dp/2x/baseline_computer_black_18dp.png) | ![](../assets/icons/delete-black-18dp/2x/baseline_delete_black_18dp.png) | ![](../assets/icons/delete_forever-black-18dp/2x/baseline_delete_forever_black_18dp.png) | ![](../assets/icons/folder-black-18dp/2x/baseline_folder_black_18dp.png) | ![](../assets/icons/done-black-18dp/2x/baseline_done_black_18dp.png) | 
+| Ícones | | | | |
+|--|--|--|--|--|
+| ![account_circle](../assets/icons/account_circle.png) | ![arrow_back](../assets/icons/arrow_back.png) | ![arrow_forward](../assets/icons/arrow_forward.png) | ![close](../assets/icons/close.png) | ![computer](../assets/icons/computer.png) |
+| ![get_app](../assets/icons/get_app.png) | ![info](../assets/icons/info.png) | ![like](../assets/icons/like.png) | ![leaderboard](../assets/icons/leaderboard.png) | ![search](../assets/icons/search.png) |
 
 ### 3.5 Cores
 
+#### 3.5.1 Cores principais
+
 <p style="text-indent: 20px; text-align: justify">
-As cores escolhidas foram avaliadas em relação à acessibilidade para pessoas com os tipos mais comuns de daltonismo.
+As cores principais escolhidas foram avaliadas em relação à acessibilidade para pessoas com os tipos mais comuns de daltonismo.
 </p>
 
-As cores escolhidas foram as seguintes:
+As cores principais escolhidas foram as seguintes:
 
-![Cores escolhidas](../assets/guia_estilo/colors.jpeg)
+![Cores](../assets/guia_estilo/colors_01.jpeg)
 
-<a class="link" href="https://drive.google.com/file/d/1bw0B7BmXt0gUnuurVSdCDroVhdmAO-NF/view?usp=sharing" target="_blank">Link para a imagem</a>
+<a class="link" href="https://drive.google.com/file/d/1rV91S2b9LDAsIkeiURHiS4KViya9pQIm/view?usp=sharing" target="_blank">Link para a imagem</a>
+
+#### 3.5.2 Cores secundárias
+
+<p style="text-indent: 20px; text-align: justify">
+As cores secundárias foram utilizadas para representação de <i>status</i> de informações do sistema.
+</p>
+
+As cores secundárias escolhidas foram as seguintes:
+
+![Cores](../assets/guia_estilo/colors_02.jpeg)
+
+<a class="link" href="https://drive.google.com/file/d/16hnPRDOcvgtxOLhso-G04L_BCxxtWhjC/view?usp=sharing" target="_blank">Link para a imagem</a>
 
 ### 3.6 Animações
 
@@ -160,3 +172,4 @@ Deve existir uma confirmação quando o usuário fizer login e também quando oc
 | 1.0 | 11/10/2020 | Criação do documento de guia de estilo | Todos os integrantes |
 | 1.1 | 12/10/2020 | Correções gramaticais e nos links das imagens | Igor Paiva |
 | 2.0 | 15/10/2020 | Refatorando estrutura geral do projeto | Marcelo Victor, Rhuan Carlos, Thiago Lopes e Thiago Guilherme |
+| 3.0 | 06/12/2020 | Atualizando guia de estilo | Igor Paiva e Thiago Lopes |
