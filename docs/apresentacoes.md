@@ -31,5 +31,5 @@
 <br /><br />
 
 <p style="text-align: justify">
-<strong>OBS:</strong> No dia que gravamos a última apresentação, passamos por alguns problemas e não conseguimos gravar o vídeo da maneira que gostaríamos, ficou faltando algumas coisas que queríamos abordar. Caso deseje utilizar essa apresentação para avaliação ou qualquer motivo, nós não temos nenhuma reclamação, apenas editamos diferente para ter uma apresentação melhor. Essa primeira versão pode ser encontrada <a class="link" href="https://youtu.be/gagvf2MNZSg" target="_blank">aqui</a>.
+<strong>OBS:</strong> No dia que gravamos a última apresentação, passamos por alguns problemas e não conseguimos gravar o vídeo da maneira que gostaríamos, ficou faltando algumas coisas que queríamos abordar. Caso deseje utilizar essa apresentação para avaliação ou qualquer motivo, nós não temos nenhuma reclamação, apenas editamos diferente para ter uma apresentação melhor. Essa primeira versão pode ser encontrada <a class="link" href="https://youtu.be/Ngj8VrMBxVA" target="_blank">aqui</a>.
 </p>
