@@ -9,7 +9,7 @@
 ## 2. Avaliação
 
 <p style="text-indent: 20px; text-align: justify">
-Para a avaliação do protótipo de média fidelidade, nós decidimos utilizar um método de inspeção, mais especificamente uma avaliação heurística, que é um método de avaliação formativa, ou seja, que podemos aplicar durante o processo de design e antes de uma solução concluída (Barbosa e Silva, 2010).
+Para a avaliação do protótipo de alta fidelidade, nós decidimos utilizar um método de inspeção, mais especificamente uma avaliação heurística, que é um método de avaliação formativa e somativa, ou seja, que podemos aplicar em qualquer etapa do processo de design que já se tenha algum tipo de protótipo (Barbosa e Silva, 2010).
 </p>
 
 <p style="text-indent: 20px; text-align: justify">

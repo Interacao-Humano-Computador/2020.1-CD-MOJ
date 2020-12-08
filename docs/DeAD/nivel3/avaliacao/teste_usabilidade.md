@@ -161,7 +161,7 @@ As tarefas utilizadas nas sessões foram as mesmas para todos os participantes e
 - **As opções disponíveis são de fácil acesso?**
     - "Eu achei tudo fácil mesmo"
 - **Alguma dica, crítica e/ou sugestão?**
-    - "O melhor é não acrescentar coisas, além do que necessita sabe"
+    - "O melhor é não acrescentar coisas, além do que necessita"
 
 ## Interpretação dos resultados quantitativos
 
