@@ -26,4 +26,10 @@
 
 ## 7ª Apresentação - Apresentação Final
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ngj8VrMBxVA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gagvf2MNZSg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br /><br />
+
+<p style="text-align: justify">
+<strong>OBS:</strong> No dia que gravamos a última apresentação, passamos por alguns problemas e não conseguimos gravar o vídeo da maneira que gostaríamos, ficou faltando algumas coisas que queríamos abordar. Caso deseje utilizar essa apresentação para avaliação ou qualquer motivo, nós não temos nenhuma reclamação, apenas editamos diferente para ter uma apresentação melhor. Essa primeira versão pode ser encontrada <a class="link" href="https://youtu.be/gagvf2MNZSg" target="_blank">aqui</a>.
+</p>
