@@ -1,0 +1,64 @@
+site_name: CD-MOJ
+
+theme:
+  name: material
+  logo: assets/icons/computer_white.png
+  language: 'pt'
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Sobre: index.md
+  - Planejamento: planejamento.md
+  - Análise de requisitos:
+    - Perfil de usuário:
+      - Personas: analise_requisitos/personas.md
+    - Análise de tarefas:
+      - Análise Hierárquica de tarefas: analise_requisitos/analise_tarefas/hta.md
+      - GOMS: analise_requisitos/analise_tarefas/goms.md
+    - Características da plataforma: analise_requisitos/caracteristicas.md
+    - Princípios e diretrizes do projeto: analise_requisitos/principios.md
+    - Metas de usabilidade: analise_requisitos/metas_de_usabilidade.md
+    - Guia de estilo: analise_requisitos/guia_estilo.md
+  - Design, avaliação e desenvolvimento:
+    - Nível 1:
+      - Reengenharia do trabalho: DeAD/nivel1/reestruturacao_tarefas.md
+      - Storyboard: DeAD/nivel1/storyboard.md
+      - Avaliação:
+        - Avaliação do Storyboard : DeAD/nivel1/avaliacao_storyboard.md
+        - Avaliação análise de tarefas : DeAD/nivel1/avaliacao_tarefas.md
+    - Nível 2:
+      - Sketch: DeAD/nivel2/sketch.md
+      - Protótipo de Média Fidelidade: DeAD/nivel2/prototipo_media_fidelidade.md
+      - Avaliação:
+        - Planejamento: DeAD/nivel2/avaliacao/planejamento_avaliacao_media.md
+        - Avaliação heurística: DeAD/nivel2/avaliacao/avaliacao_heuristica_media.md
+        - Avaliação de percurso cognitivo: DeAD/nivel2/avaliacao/avaliacao_percurso_media.md
+        - Relato geral: DeAD/nivel2/avaliacao/relato_geral.md
+    - Nível 3:
+      - Protótipo de alta fidelidade: DeAD/nivel3/prototipo_alta.md
+      - Avaliação:
+        - Planejamento: DeAD/nivel3/avaliacao/planejamento.md
+        - Preparação teste de usabilidade: DeAD/nivel3/avaliacao/prep_teste_usabilidade.md
+        - Avaliação Heurística: DeAD/nivel3/avaliacao/avaliacao_heuristica.md
+        - Teste de usabilidade: DeAD/nivel3/avaliacao/teste_usabilidade.md
+        - Relato geral: DeAD/nivel3/avaliacao/relato_geral.md
+  - Análise:
+    - Verificação:
+      - Planejamento: analise/verificacao/planejamento.md
+      - Personas: analise/verificacao/personas.md
+      - Metas de Usabilidade: analise/verificacao/meta_de_usabilidade.md
+      - Guia de estilo: analise/verificacao/guia_de_estilo.md
+      - Reengenharia do Trabalho: analise/verificacao/reengenharia.md
+      - Storyboard: analise/verificacao/storyboard.md
+      - Sketch: analise/verificacao/sketch.md
+      - Protótipo de Média Fidelidade: analise/verificacao/prototipo_media_fidelidade.md
+      - Protótipo de Alta Fidelidade: analise/verificacao/prototipo_alta_fidelidade.md
+    - Validação:
+        - Validação Informal: analise/validacao_informal.md
+  - Apresentações: apresentacoes.md
+  # sempre a ultima
+  - Atas:
+      - 30/09/2020: atas/reuniao-30-09-2020.md
+      - 19/10/2020: atas/reuniao-19-10-2020.md
