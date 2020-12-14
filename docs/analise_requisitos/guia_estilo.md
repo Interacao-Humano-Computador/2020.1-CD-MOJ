@@ -46,7 +46,7 @@ O usuário encontra-se num ambiente voltado para a aprendizagem, deve-se prezar 
 A disposição espacial do site deve ser responsiva de forma que qualquer usuário consiga utilizar o sistema em dispositivos com resoluções distintas. 
 </p>
 
-![grid](../assets/grid/grid_tela_principal.png)
+![grid](../assets/grid/grid.png)
 
 ### 3.2 Janela
 <p style="text-indent: 20px; text-align: justify">
