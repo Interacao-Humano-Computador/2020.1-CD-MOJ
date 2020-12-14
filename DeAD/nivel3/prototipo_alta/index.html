@@ -1,0 +1,1560 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      <link rel="shortcut icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.1.7">
+    
+    
+      
+        <title>Protótipo de alta fidelidade - CD-MOJ</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.19753c6b.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.196e0c26.min.css">
+        
+      
+    
+    
+    
+      
+        
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}</style>
+      
+    
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+      
+  
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#prototipo-alta-fidelidade" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid" aria-label="Header">
+    <a href="../../.." title="CD-MOJ" class="md-header-nav__button md-logo" aria-label="CD-MOJ">
+      
+  <img src="../../../assets/icons/computer_white.png" alt="logo">
+
+    </a>
+    <label class="md-header-nav__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header-nav__title" data-md-component="header-title">
+      
+        <div class="md-header-nav__ellipsis">
+          <span class="md-header-nav__topic md-ellipsis">
+            CD-MOJ
+          </span>
+          <span class="md-header-nav__topic md-ellipsis">
+            
+              Protótipo de alta fidelidade
+            
+          </span>
+        </div>
+      
+    </div>
+    
+      <label class="md-header-nav__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" data-md-component="search-reset" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="CD-MOJ" class="md-nav__button md-logo" aria-label="CD-MOJ">
+      
+  <img src="../../../assets/icons/computer_white.png" alt="logo">
+
+    </a>
+    CD-MOJ
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../.." class="md-nav__link">
+      Sobre
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../../planejamento/" class="md-nav__link">
+      Planejamento
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3" >
+    <label class="md-nav__link" for="nav-3">
+      Análise de requisitos
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Análise de requisitos" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        <span class="md-nav__icon md-icon"></span>
+        Análise de requisitos
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3-1" type="checkbox" id="nav-3-1" >
+    <label class="md-nav__link" for="nav-3-1">
+      Perfil de usuário
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Perfil de usuário" data-md-level="2">
+      <label class="md-nav__title" for="nav-3-1">
+        <span class="md-nav__icon md-icon"></span>
+        Perfil de usuário
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../analise_requisitos/personas/" class="md-nav__link">
+      Personas
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3-2" type="checkbox" id="nav-3-2" >
+    <label class="md-nav__link" for="nav-3-2">
+      Análise de tarefas
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Análise de tarefas" data-md-level="2">
+      <label class="md-nav__title" for="nav-3-2">
+        <span class="md-nav__icon md-icon"></span>
+        Análise de tarefas
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../analise_requisitos/analise_tarefas/hta/" class="md-nav__link">
+      Análise Hierárquica de tarefas
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../analise_requisitos/analise_tarefas/goms/" class="md-nav__link">
+      GOMS
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../analise_requisitos/caracteristicas/" class="md-nav__link">
+      Características da plataforma
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../analise_requisitos/principios/" class="md-nav__link">
+      Princípios e diretrizes do projeto
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../analise_requisitos/metas_de_usabilidade/" class="md-nav__link">
+      Metas de usabilidade
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../analise_requisitos/guia_estilo/" class="md-nav__link">
+      Guia de estilo
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4" checked>
+    <label class="md-nav__link" for="nav-4">
+      Design, avaliação e desenvolvimento
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Design, avaliação e desenvolvimento" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        <span class="md-nav__icon md-icon"></span>
+        Design, avaliação e desenvolvimento
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-1" type="checkbox" id="nav-4-1" >
+    <label class="md-nav__link" for="nav-4-1">
+      Nível 1
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Nível 1" data-md-level="2">
+      <label class="md-nav__title" for="nav-4-1">
+        <span class="md-nav__icon md-icon"></span>
+        Nível 1
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../nivel1/reestruturacao_tarefas/" class="md-nav__link">
+      Reengenharia do trabalho
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../nivel1/storyboard/" class="md-nav__link">
+      Storyboard
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-1-3" type="checkbox" id="nav-4-1-3" >
+    <label class="md-nav__link" for="nav-4-1-3">
+      Avaliação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Avaliação" data-md-level="3">
+      <label class="md-nav__title" for="nav-4-1-3">
+        <span class="md-nav__icon md-icon"></span>
+        Avaliação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../nivel1/avaliacao_storyboard/" class="md-nav__link">
+      Avaliação do Storyboard
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../nivel1/avaliacao_tarefas/" class="md-nav__link">
+      Avaliação análise de tarefas
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-2" type="checkbox" id="nav-4-2" >
+    <label class="md-nav__link" for="nav-4-2">
+      Nível 2
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Nível 2" data-md-level="2">
+      <label class="md-nav__title" for="nav-4-2">
+        <span class="md-nav__icon md-icon"></span>
+        Nível 2
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../nivel2/sketch/" class="md-nav__link">
+      Sketch
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../nivel2/prototipo_media_fidelidade/" class="md-nav__link">
+      Protótipo de Média Fidelidade
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-2-3" type="checkbox" id="nav-4-2-3" >
+    <label class="md-nav__link" for="nav-4-2-3">
+      Avaliação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Avaliação" data-md-level="3">
+      <label class="md-nav__title" for="nav-4-2-3">
+        <span class="md-nav__icon md-icon"></span>
+        Avaliação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../nivel2/avaliacao/planejamento_avaliacao_media/" class="md-nav__link">
+      Planejamento
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../nivel2/avaliacao/avaliacao_heuristica_media/" class="md-nav__link">
+      Avaliação heurística
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../nivel2/avaliacao/avaliacao_percurso_media/" class="md-nav__link">
+      Avaliação de percurso cognitivo
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../nivel2/avaliacao/relato_geral/" class="md-nav__link">
+      Relato geral
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-3" type="checkbox" id="nav-4-3" checked>
+    <label class="md-nav__link" for="nav-4-3">
+      Nível 3
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Nível 3" data-md-level="2">
+      <label class="md-nav__title" for="nav-4-3">
+        <span class="md-nav__icon md-icon"></span>
+        Nível 3
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Protótipo de alta fidelidade
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+    
+    <a href="./" class="md-nav__link md-nav__link--active">
+      Protótipo de alta fidelidade
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1a-versao-prototipo-interativo" class="md-nav__link">
+    1ª versão Protótipo Interativo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2a-versao-prototipo-interativo" class="md-nav__link">
+    2ª versão Protótipo Interativo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#telas" class="md-nav__link">
+    Telas
+  </a>
+  
+    <nav class="md-nav" aria-label="Telas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#home" class="md-nav__link">
+    Home
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#home-classificar-aberto" class="md-nav__link">
+    Home classificar aberto
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#faq" class="md-nav__link">
+    FAQ
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sobre-nos" class="md-nav__link">
+    Sobre nós
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ultimas-novidades" class="md-nav__link">
+    Últimas novidades
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#login" class="md-nav__link">
+    Login
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#contests-logado" class="md-nav__link">
+    Contests logado
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#contests-logado-com-dropdown" class="md-nav__link">
+    Contests logado com dropdown
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dentro-do-contest" class="md-nav__link">
+    Dentro do contest
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dentro-do-contest-com-legenda" class="md-nav__link">
+    Dentro do contest com legenda
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dentro-do-contest-com-tooltip-de-baixar-submissao" class="md-nav__link">
+    Dentro do contest com tooltip de baixar submissão
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#scoreboard" class="md-nav__link">
+    Scoreboard
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#scoreboard-com-tooltip-de-legenda" class="md-nav__link">
+    Scoreboard com tooltip de legenda
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-padrao" class="md-nav__link">
+    Questão padrão
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-com-modal-de-sucesso" class="md-nav__link">
+    Questão com modal de sucesso
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-com-as-informacoes-ocultadas" class="md-nav__link">
+    Questão com as informações ocultadas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-com-o-codigo-fonte-ocultado" class="md-nav__link">
+    Questão com o código fonte ocultado
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-com-as-informacoes-e-codigo-fonte-ocultado" class="md-nav__link">
+    Questão com as informações e código fonte ocultado
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" class="md-nav__link">
+    Referências
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#versionamento" class="md-nav__link">
+    Versionamento
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-3-2" type="checkbox" id="nav-4-3-2" >
+    <label class="md-nav__link" for="nav-4-3-2">
+      Avaliação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Avaliação" data-md-level="3">
+      <label class="md-nav__title" for="nav-4-3-2">
+        <span class="md-nav__icon md-icon"></span>
+        Avaliação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../avaliacao/planejamento/" class="md-nav__link">
+      Planejamento
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../avaliacao/prep_teste_usabilidade/" class="md-nav__link">
+      Preparação teste de usabilidade
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../avaliacao/avaliacao_heuristica/" class="md-nav__link">
+      Avaliação Heurística
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../avaliacao/teste_usabilidade/" class="md-nav__link">
+      Teste de usabilidade
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../avaliacao/relato_geral/" class="md-nav__link">
+      Relato geral
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5" >
+    <label class="md-nav__link" for="nav-5">
+      Análise
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Análise" data-md-level="1">
+      <label class="md-nav__title" for="nav-5">
+        <span class="md-nav__icon md-icon"></span>
+        Análise
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-5-1" type="checkbox" id="nav-5-1" >
+    <label class="md-nav__link" for="nav-5-1">
+      Verificação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Verificação" data-md-level="2">
+      <label class="md-nav__title" for="nav-5-1">
+        <span class="md-nav__icon md-icon"></span>
+        Verificação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../analise/verificacao/planejamento/" class="md-nav__link">
+      Planejamento
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../analise/verificacao/personas/" class="md-nav__link">
+      Personas
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../analise/verificacao/meta_de_usabilidade/" class="md-nav__link">
+      Metas de Usabilidade
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../analise/verificacao/guia_de_estilo/" class="md-nav__link">
+      Guia de estilo
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../analise/verificacao/reengenharia/" class="md-nav__link">
+      Reengenharia do Trabalho
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../analise/verificacao/storyboard/" class="md-nav__link">
+      Storyboard
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../analise/verificacao/sketch/" class="md-nav__link">
+      Sketch
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../analise/verificacao/prototipo_media_fidelidade/" class="md-nav__link">
+      Protótipo de Média Fidelidade
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../analise/verificacao/prototipo_alta_fidelidade/" class="md-nav__link">
+      Protótipo de Alta Fidelidade
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-5-2" type="checkbox" id="nav-5-2" >
+    <label class="md-nav__link" for="nav-5-2">
+      Validação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Validação" data-md-level="2">
+      <label class="md-nav__title" for="nav-5-2">
+        <span class="md-nav__icon md-icon"></span>
+        Validação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../analise/validacao_informal/" class="md-nav__link">
+      Validação Informal
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../../apresentacoes/" class="md-nav__link">
+      Apresentações
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-7" type="checkbox" id="nav-7" >
+    <label class="md-nav__link" for="nav-7">
+      Atas
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Atas" data-md-level="1">
+      <label class="md-nav__title" for="nav-7">
+        <span class="md-nav__icon md-icon"></span>
+        Atas
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../atas/reuniao-30-09-2020/" class="md-nav__link">
+      30/09/2020
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../atas/reuniao-19-10-2020/" class="md-nav__link">
+      19/10/2020
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1a-versao-prototipo-interativo" class="md-nav__link">
+    1ª versão Protótipo Interativo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2a-versao-prototipo-interativo" class="md-nav__link">
+    2ª versão Protótipo Interativo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#telas" class="md-nav__link">
+    Telas
+  </a>
+  
+    <nav class="md-nav" aria-label="Telas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#home" class="md-nav__link">
+    Home
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#home-classificar-aberto" class="md-nav__link">
+    Home classificar aberto
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#faq" class="md-nav__link">
+    FAQ
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sobre-nos" class="md-nav__link">
+    Sobre nós
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ultimas-novidades" class="md-nav__link">
+    Últimas novidades
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#login" class="md-nav__link">
+    Login
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#contests-logado" class="md-nav__link">
+    Contests logado
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#contests-logado-com-dropdown" class="md-nav__link">
+    Contests logado com dropdown
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dentro-do-contest" class="md-nav__link">
+    Dentro do contest
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dentro-do-contest-com-legenda" class="md-nav__link">
+    Dentro do contest com legenda
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dentro-do-contest-com-tooltip-de-baixar-submissao" class="md-nav__link">
+    Dentro do contest com tooltip de baixar submissão
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#scoreboard" class="md-nav__link">
+    Scoreboard
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#scoreboard-com-tooltip-de-legenda" class="md-nav__link">
+    Scoreboard com tooltip de legenda
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-padrao" class="md-nav__link">
+    Questão padrão
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-com-modal-de-sucesso" class="md-nav__link">
+    Questão com modal de sucesso
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-com-as-informacoes-ocultadas" class="md-nav__link">
+    Questão com as informações ocultadas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-com-o-codigo-fonte-ocultado" class="md-nav__link">
+    Questão com o código fonte ocultado
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-com-as-informacoes-e-codigo-fonte-ocultado" class="md-nav__link">
+    Questão com as informações e código fonte ocultado
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" class="md-nav__link">
+    Referências
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#versionamento" class="md-nav__link">
+    Versionamento
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="prototipo-alta-fidelidade">Protótipo alta fidelidade</h1>
+<h2 id="introducao">Introdução</h2>
+<p style="text-indent: 20px; text-align: justify">
+O protótipo foi produzido utilizando o <a class="link" href="https://www.figma.com/" target="_blank">Figma</a>, e o projeto pode ser acessado <a class="link" href="https://www.figma.com/file/6e0a2PDQNIVhWLBW5MiX7j/Prot%C3%B3tipo-CD-MOJ-Alta?node-id=0%3A1" target="_blank">aqui</a>. E o protótipo interativo pode ser encontrado <a class="link" href="https://www.figma.com/proto/6e0a2PDQNIVhWLBW5MiX7j/Prot%C3%B3tipo-CD-MOJ-Alta?node-id=5%3A7&scaling=min-zoom" target="_blank">aqui</a>.
+</p>
+
+<h2 id="1a-versao-prototipo-interativo">1ª versão Protótipo Interativo</h2>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F6e0a2PDQNIVhWLBW5MiX7j%2FProt%25C3%25B3tipo-CD-MOJ-Alta-1a-vers%25C3%25A3o%3Fnode-id%3D5%253A7%26scaling%3Dmin-zoom" allowfullscreen></iframe>
+
+<h2 id="2a-versao-prototipo-interativo">2ª versão Protótipo Interativo</h2>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FjiWdgzEdwwe4FTAqAcKAeR%2FProt%25C3%25B3tipo-CD-MOJ-Alta-Teste%3Fnode-id%3D5%253A7%26scaling%3Dmin-zoom" allowfullscreen></iframe>
+
+<h2 id="telas">Telas</h2>
+<h3 id="home">Home</h3>
+<p><img alt="Home" src="../../../assets/alta_fidelidade/home.png" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/12JMH0qjJN3mj0-9v8TU3wt1XH2RcSsVL/view?usp=sharing" target="_blank">link para a imagem acima</a></p>
+<h3 id="home-classificar-aberto">Home classificar aberto</h3>
+<p><img alt="Contests" src="../../../assets/alta_fidelidade/home_dropdown_classificar.png" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/1tf5YZVHF4DEkwMy62WzVB0XitmBkgVzC/view?usp=sharing" target="_blank">link para a imagem acima</a></p>
+<h3 id="faq">FAQ</h3>
+<p><img alt="FAQ" src="../../../assets/alta_fidelidade/FAQ.png" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/1Q9me0v9UOtdTKpzFzUnaQmOMVi5463vU/view?usp=sharing" target="_blank">link para a imagem acima</a></p>
+<h3 id="sobre-nos">Sobre nós</h3>
+<p><img alt="About" src="../../../assets/alta_fidelidade/sobre.png" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/1eFJzj9q2bEm4qqkMVn95raI3oe9lZLe9/view?usp=sharing" target="_blank">link para a imagem acima</a></p>
+<h3 id="ultimas-novidades">Últimas novidades</h3>
+<p><img alt="Novidades" src="../../../assets/alta_fidelidade/novidades.png" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/1MUqnsrzvmTZ51GuhthoIHMMviJhfBvQA/view?usp=sharing" target="_blank">link para a imagem acima</a></p>
+<h3 id="login">Login</h3>
+<p><img alt="Novidades" src="../../../assets/alta_fidelidade/login.png" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/1EifcWIgJ3qm43Qpzg2Pely7rIkN6wHhG/view?usp=sharing" target="_blank">link para a imagem acima</a></p>
+<h3 id="contests-logado">Contests logado</h3>
+<p><img alt="Novidades" src="../../../assets/alta_fidelidade/meus_contests.png" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/1OMLH-wLAgP5m6XEMZXt0K-KG6Gm8trsy/view?usp=sharing" target="_blank">link para a imagem acima</a></p>
+<h3 id="contests-logado-com-dropdown">Contests logado com dropdown</h3>
+<p><img alt="Novidades" src="../../../assets/alta_fidelidade/meus_contests_dropdown.png" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/1kFa_Xve9aQuS6tYMxIcpTlsI-_ski5tt/view?usp=sharing" target="_blank">link para a imagem acima</a></p>
+<h3 id="dentro-do-contest">Dentro do contest</h3>
+<p><img alt="Constest" src="../../../assets/alta_fidelidade/contest.png" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/114AQCeCRRxZK7AZt5qZ96tp4wYrtihrn/view?usp=sharing" target="_blank">link para a imagem acima</a></p>
+<h3 id="dentro-do-contest-com-legenda">Dentro do contest com legenda</h3>
+<p><img alt="Constest" src="../../../assets/alta_fidelidade/contest_info.png" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/10M8lpbbxtgfdRW8wSJtxGFgJ98eVKjpE/view?usp=sharing" target="_blank">link para a imagem acima</a></p>
+<h3 id="dentro-do-contest-com-tooltip-de-baixar-submissao">Dentro do contest com tooltip de baixar submissão</h3>
+<p><img alt="Constest" src="../../../assets/alta_fidelidade/contest_tooltip.png" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/1qDfF6SXqmouj_kv6N94beYw-cIKcv0OM/view?usp=sharing" target="_blank">link para a imagem acima</a></p>
+<h3 id="scoreboard">Scoreboard</h3>
+<p><img alt="Scoreboard" src="../../../assets/alta_fidelidade/scoreboard.png" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/1Wz2a6ahAQKFxpD4a5atAN1Qy2kFB5qry/view?usp=sharing" target="_blank">link para a imagem acima</a></p>
+<h3 id="scoreboard-com-tooltip-de-legenda">Scoreboard com tooltip de legenda</h3>
+<p><img alt="Scoreboard" src="../../../assets/alta_fidelidade/scoreboard_info.png" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/1Wmik-nK3E-A2pyWFq70-9xK8uj3lDGy7/view?usp=sharing" target="_blank">link para a imagem acima</a></p>
+<h3 id="questao-padrao">Questão padrão</h3>
+<p><img alt="Questão" src="../../../assets/alta_fidelidade/questao.png" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/1AUamzVdOZk2nErmaD9pWoEcSLNnE3tcy/view?usp=sharing" target="_blank">link para a imagem acima</a></p>
+<h3 id="questao-com-modal-de-sucesso">Questão com modal de sucesso</h3>
+<p><img alt="Questão" src="../../../assets/alta_fidelidade/questao_envio_aprovado.png" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/1QpJOAjJoqRon_P5pWkFU-QvdhYMIIkpV/view?usp=sharing" target="_blank">link para a imagem acima</a></p>
+<h3 id="questao-com-as-informacoes-ocultadas">Questão com as informações ocultadas</h3>
+<p><img alt="Questão" src="../../../assets/alta_fidelidade/questao_estado2.png" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/16MkvROgTTOqWuDKvOi4V1ZhHM33RO8Ml/view?usp=sharing" target="_blank">link para a imagem acima</a></p>
+<h3 id="questao-com-o-codigo-fonte-ocultado">Questão com o código fonte ocultado</h3>
+<p><img alt="Questão" src="../../../assets/alta_fidelidade/questao_estado4.png" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/1PDRh9s4ch__Pjt9cbc2bKUziNHsN7SeP/view?usp=sharing" target="_blank">link para a imagem acima</a></p>
+<h3 id="questao-com-as-informacoes-e-codigo-fonte-ocultado">Questão com as informações e código fonte ocultado</h3>
+<p><img alt="Questão" src="../../../assets/alta_fidelidade/questao_estado3.png" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/1POTRbf_FMaNBcPAdldCOcUYf68cXQd-8/view?usp=sharing" target="_blank">link para a imagem acima</a></p>
+<h2 id="referencias">Referências</h2>
+<ul>
+<li>SHARP, Helen; ROGERS, Yvonne; PREECE, Jenny. "INTERACTION DESIGN beyond human-computer interaction". John Wiley &amp; Sons, 2019.</li>
+</ul>
+<h2 id="versionamento">Versionamento</h2>
+<table>
+<thead>
+<tr>
+<th>Versão</th>
+<th>Data</th>
+<th>Modificação</th>
+<th>Autor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.0</td>
+<td>17/11/2020</td>
+<td>Criação do documento</td>
+<td>Todos os integrantes</td>
+</tr>
+<tr>
+<td>2.0</td>
+<td>24/11/2020</td>
+<td>Adição protótipo melhorado</td>
+<td>Todos os integrantes</td>
+</tr>
+</tbody>
+</table>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
+        
+          <a href="../../nivel2/avaliacao/relato_geral/" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+            </div>
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Anterior
+                </span>
+                Relato geral
+              </div>
+            </div>
+          </a>
+        
+        
+          <a href="../avaliacao/planejamento/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Próximo
+                </span>
+                Planejamento
+              </div>
+            </div>
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../../assets/javascripts/vendor.0ac82a11.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.f81dfb4d.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}</script>
+      
+      <script>
+        app = initialize({
+          base: "../../..",
+          features: [],
+          search: Object.assign({
+            worker: "../../../assets/javascripts/worker/search.4ac00218.min.js"
+          }, typeof search !== "undefined" && search)
+        })
+      </script>
+      
+    
+  </body>
+</html>

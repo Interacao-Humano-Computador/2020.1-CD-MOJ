@@ -1,0 +1,1833 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      <link rel="shortcut icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.1.7">
+    
+    
+      
+        <title>Guia de estilo - CD-MOJ</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.19753c6b.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.196e0c26.min.css">
+        
+      
+    
+    
+    
+      
+        
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}</style>
+      
+    
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+      
+  
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#metas-de-usabilidade" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid" aria-label="Header">
+    <a href="../.." title="CD-MOJ" class="md-header-nav__button md-logo" aria-label="CD-MOJ">
+      
+  <img src="../../assets/icons/computer_white.png" alt="logo">
+
+    </a>
+    <label class="md-header-nav__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header-nav__title" data-md-component="header-title">
+      
+        <div class="md-header-nav__ellipsis">
+          <span class="md-header-nav__topic md-ellipsis">
+            CD-MOJ
+          </span>
+          <span class="md-header-nav__topic md-ellipsis">
+            
+              Guia de estilo
+            
+          </span>
+        </div>
+      
+    </div>
+    
+      <label class="md-header-nav__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" data-md-component="search-reset" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="CD-MOJ" class="md-nav__button md-logo" aria-label="CD-MOJ">
+      
+  <img src="../../assets/icons/computer_white.png" alt="logo">
+
+    </a>
+    CD-MOJ
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../.." class="md-nav__link">
+      Sobre
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../planejamento/" class="md-nav__link">
+      Planejamento
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3" checked>
+    <label class="md-nav__link" for="nav-3">
+      Análise de requisitos
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Análise de requisitos" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        <span class="md-nav__icon md-icon"></span>
+        Análise de requisitos
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3-1" type="checkbox" id="nav-3-1" >
+    <label class="md-nav__link" for="nav-3-1">
+      Perfil de usuário
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Perfil de usuário" data-md-level="2">
+      <label class="md-nav__title" for="nav-3-1">
+        <span class="md-nav__icon md-icon"></span>
+        Perfil de usuário
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../personas/" class="md-nav__link">
+      Personas
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3-2" type="checkbox" id="nav-3-2" >
+    <label class="md-nav__link" for="nav-3-2">
+      Análise de tarefas
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Análise de tarefas" data-md-level="2">
+      <label class="md-nav__title" for="nav-3-2">
+        <span class="md-nav__icon md-icon"></span>
+        Análise de tarefas
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../analise_tarefas/hta/" class="md-nav__link">
+      Análise Hierárquica de tarefas
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../analise_tarefas/goms/" class="md-nav__link">
+      GOMS
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../caracteristicas/" class="md-nav__link">
+      Características da plataforma
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../principios/" class="md-nav__link">
+      Princípios e diretrizes do projeto
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../metas_de_usabilidade/" class="md-nav__link">
+      Metas de usabilidade
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Guia de estilo
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+    
+    <a href="./" class="md-nav__link md-nav__link--active">
+      Guia de estilo
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+    <nav class="md-nav" aria-label="1. Introdução">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#11-objetivo-do-guia-de-estilo" class="md-nav__link">
+    1.1 Objetivo do Guia de Estilo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12-organizacao-e-conteudo" class="md-nav__link">
+    1.2 Organização e Conteúdo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#13-publico-alvo" class="md-nav__link">
+    1.3 Público-alvo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#14-como-utilizar-esse-guia" class="md-nav__link">
+    1.4 Como utilizar esse guia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#15-como-manter-o-guia" class="md-nav__link">
+    1.5 Como manter o guia
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-resultados-de-analise" class="md-nav__link">
+    2. Resultados de Análise
+  </a>
+  
+    <nav class="md-nav" aria-label="2. Resultados de Análise">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#21-descricao-do-ambiente-de-trabalho-do-usuario" class="md-nav__link">
+    2.1 Descrição do ambiente de trabalho do usuário
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-elementos-de-interface" class="md-nav__link">
+    3. Elementos de interface
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Elementos de interface">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-disposicao-espacial-e-grid" class="md-nav__link">
+    3.1 Disposição espacial e grid
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-janela" class="md-nav__link">
+    3.2 Janela
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#33-tipografia" class="md-nav__link">
+    3.3 Tipografia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#34-simbolos-nao-tipograficos" class="md-nav__link">
+    3.4 Símbolos não tipográficos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#35-cores" class="md-nav__link">
+    3.5 Cores
+  </a>
+  
+    <nav class="md-nav" aria-label="3.5 Cores">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#351-cores-principais" class="md-nav__link">
+    3.5.1 Cores principais
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#352-cores-secundarias" class="md-nav__link">
+    3.5.2 Cores secundárias
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#36-animacoes" class="md-nav__link">
+    3.6 Animações
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-elementos-de-interacao" class="md-nav__link">
+    4. Elementos de interação
+  </a>
+  
+    <nav class="md-nav" aria-label="4. Elementos de interação">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#41-estilos-de-interacao" class="md-nav__link">
+    4.1 Estilos de interação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#42-selecao-de-um-estilo" class="md-nav__link">
+    4.2 Seleção de um estilo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#43-aceleradores" class="md-nav__link">
+    4.3 Aceleradores
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-elementos-de-acao" class="md-nav__link">
+    5. Elementos de ação
+  </a>
+  
+    <nav class="md-nav" aria-label="5. Elementos de ação">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#51-preenchimento-de-campos" class="md-nav__link">
+    5.1 Preenchimento de campos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#52-selecao" class="md-nav__link">
+    5.2 Seleção
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#53-ativacao" class="md-nav__link">
+    5.3 Ativação
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-vocabularios-e-padroes" class="md-nav__link">
+    6. Vocabulários e padrões
+  </a>
+  
+    <nav class="md-nav" aria-label="6. Vocabulários e padrões">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#61-terminologia" class="md-nav__link">
+    6.1 Terminologia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#62-tipos-de-tela" class="md-nav__link">
+    6.2 Tipos de Tela
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#63-sequencias-de-dialogos" class="md-nav__link">
+    6.3 Sequências de diálogos
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias-bibliograficas" class="md-nav__link">
+    Referências Bibliográficas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#versionamento" class="md-nav__link">
+    Versionamento
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4" >
+    <label class="md-nav__link" for="nav-4">
+      Design, avaliação e desenvolvimento
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Design, avaliação e desenvolvimento" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        <span class="md-nav__icon md-icon"></span>
+        Design, avaliação e desenvolvimento
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-1" type="checkbox" id="nav-4-1" >
+    <label class="md-nav__link" for="nav-4-1">
+      Nível 1
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Nível 1" data-md-level="2">
+      <label class="md-nav__title" for="nav-4-1">
+        <span class="md-nav__icon md-icon"></span>
+        Nível 1
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../DeAD/nivel1/reestruturacao_tarefas/" class="md-nav__link">
+      Reengenharia do trabalho
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../DeAD/nivel1/storyboard/" class="md-nav__link">
+      Storyboard
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-1-3" type="checkbox" id="nav-4-1-3" >
+    <label class="md-nav__link" for="nav-4-1-3">
+      Avaliação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Avaliação" data-md-level="3">
+      <label class="md-nav__title" for="nav-4-1-3">
+        <span class="md-nav__icon md-icon"></span>
+        Avaliação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../DeAD/nivel1/avaliacao_storyboard/" class="md-nav__link">
+      Avaliação do Storyboard
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../DeAD/nivel1/avaliacao_tarefas/" class="md-nav__link">
+      Avaliação análise de tarefas
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-2" type="checkbox" id="nav-4-2" >
+    <label class="md-nav__link" for="nav-4-2">
+      Nível 2
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Nível 2" data-md-level="2">
+      <label class="md-nav__title" for="nav-4-2">
+        <span class="md-nav__icon md-icon"></span>
+        Nível 2
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../DeAD/nivel2/sketch/" class="md-nav__link">
+      Sketch
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../DeAD/nivel2/prototipo_media_fidelidade/" class="md-nav__link">
+      Protótipo de Média Fidelidade
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-2-3" type="checkbox" id="nav-4-2-3" >
+    <label class="md-nav__link" for="nav-4-2-3">
+      Avaliação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Avaliação" data-md-level="3">
+      <label class="md-nav__title" for="nav-4-2-3">
+        <span class="md-nav__icon md-icon"></span>
+        Avaliação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../DeAD/nivel2/avaliacao/planejamento_avaliacao_media/" class="md-nav__link">
+      Planejamento
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../DeAD/nivel2/avaliacao/avaliacao_heuristica_media/" class="md-nav__link">
+      Avaliação heurística
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../DeAD/nivel2/avaliacao/avaliacao_percurso_media/" class="md-nav__link">
+      Avaliação de percurso cognitivo
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../DeAD/nivel2/avaliacao/relato_geral/" class="md-nav__link">
+      Relato geral
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-3" type="checkbox" id="nav-4-3" >
+    <label class="md-nav__link" for="nav-4-3">
+      Nível 3
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Nível 3" data-md-level="2">
+      <label class="md-nav__title" for="nav-4-3">
+        <span class="md-nav__icon md-icon"></span>
+        Nível 3
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../DeAD/nivel3/prototipo_alta/" class="md-nav__link">
+      Protótipo de alta fidelidade
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-3-2" type="checkbox" id="nav-4-3-2" >
+    <label class="md-nav__link" for="nav-4-3-2">
+      Avaliação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Avaliação" data-md-level="3">
+      <label class="md-nav__title" for="nav-4-3-2">
+        <span class="md-nav__icon md-icon"></span>
+        Avaliação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../DeAD/nivel3/avaliacao/planejamento/" class="md-nav__link">
+      Planejamento
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../DeAD/nivel3/avaliacao/prep_teste_usabilidade/" class="md-nav__link">
+      Preparação teste de usabilidade
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../DeAD/nivel3/avaliacao/avaliacao_heuristica/" class="md-nav__link">
+      Avaliação Heurística
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../DeAD/nivel3/avaliacao/teste_usabilidade/" class="md-nav__link">
+      Teste de usabilidade
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../DeAD/nivel3/avaliacao/relato_geral/" class="md-nav__link">
+      Relato geral
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5" >
+    <label class="md-nav__link" for="nav-5">
+      Análise
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Análise" data-md-level="1">
+      <label class="md-nav__title" for="nav-5">
+        <span class="md-nav__icon md-icon"></span>
+        Análise
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-5-1" type="checkbox" id="nav-5-1" >
+    <label class="md-nav__link" for="nav-5-1">
+      Verificação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Verificação" data-md-level="2">
+      <label class="md-nav__title" for="nav-5-1">
+        <span class="md-nav__icon md-icon"></span>
+        Verificação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/planejamento/" class="md-nav__link">
+      Planejamento
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/personas/" class="md-nav__link">
+      Personas
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/meta_de_usabilidade/" class="md-nav__link">
+      Metas de Usabilidade
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/guia_de_estilo/" class="md-nav__link">
+      Guia de estilo
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/reengenharia/" class="md-nav__link">
+      Reengenharia do Trabalho
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/storyboard/" class="md-nav__link">
+      Storyboard
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/sketch/" class="md-nav__link">
+      Sketch
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/prototipo_media_fidelidade/" class="md-nav__link">
+      Protótipo de Média Fidelidade
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/prototipo_alta_fidelidade/" class="md-nav__link">
+      Protótipo de Alta Fidelidade
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-5-2" type="checkbox" id="nav-5-2" >
+    <label class="md-nav__link" for="nav-5-2">
+      Validação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Validação" data-md-level="2">
+      <label class="md-nav__title" for="nav-5-2">
+        <span class="md-nav__icon md-icon"></span>
+        Validação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/validacao_informal/" class="md-nav__link">
+      Validação Informal
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../apresentacoes/" class="md-nav__link">
+      Apresentações
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-7" type="checkbox" id="nav-7" >
+    <label class="md-nav__link" for="nav-7">
+      Atas
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Atas" data-md-level="1">
+      <label class="md-nav__title" for="nav-7">
+        <span class="md-nav__icon md-icon"></span>
+        Atas
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../atas/reuniao-30-09-2020/" class="md-nav__link">
+      30/09/2020
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../atas/reuniao-19-10-2020/" class="md-nav__link">
+      19/10/2020
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+    <nav class="md-nav" aria-label="1. Introdução">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#11-objetivo-do-guia-de-estilo" class="md-nav__link">
+    1.1 Objetivo do Guia de Estilo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12-organizacao-e-conteudo" class="md-nav__link">
+    1.2 Organização e Conteúdo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#13-publico-alvo" class="md-nav__link">
+    1.3 Público-alvo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#14-como-utilizar-esse-guia" class="md-nav__link">
+    1.4 Como utilizar esse guia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#15-como-manter-o-guia" class="md-nav__link">
+    1.5 Como manter o guia
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-resultados-de-analise" class="md-nav__link">
+    2. Resultados de Análise
+  </a>
+  
+    <nav class="md-nav" aria-label="2. Resultados de Análise">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#21-descricao-do-ambiente-de-trabalho-do-usuario" class="md-nav__link">
+    2.1 Descrição do ambiente de trabalho do usuário
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-elementos-de-interface" class="md-nav__link">
+    3. Elementos de interface
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Elementos de interface">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-disposicao-espacial-e-grid" class="md-nav__link">
+    3.1 Disposição espacial e grid
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-janela" class="md-nav__link">
+    3.2 Janela
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#33-tipografia" class="md-nav__link">
+    3.3 Tipografia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#34-simbolos-nao-tipograficos" class="md-nav__link">
+    3.4 Símbolos não tipográficos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#35-cores" class="md-nav__link">
+    3.5 Cores
+  </a>
+  
+    <nav class="md-nav" aria-label="3.5 Cores">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#351-cores-principais" class="md-nav__link">
+    3.5.1 Cores principais
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#352-cores-secundarias" class="md-nav__link">
+    3.5.2 Cores secundárias
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#36-animacoes" class="md-nav__link">
+    3.6 Animações
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-elementos-de-interacao" class="md-nav__link">
+    4. Elementos de interação
+  </a>
+  
+    <nav class="md-nav" aria-label="4. Elementos de interação">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#41-estilos-de-interacao" class="md-nav__link">
+    4.1 Estilos de interação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#42-selecao-de-um-estilo" class="md-nav__link">
+    4.2 Seleção de um estilo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#43-aceleradores" class="md-nav__link">
+    4.3 Aceleradores
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-elementos-de-acao" class="md-nav__link">
+    5. Elementos de ação
+  </a>
+  
+    <nav class="md-nav" aria-label="5. Elementos de ação">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#51-preenchimento-de-campos" class="md-nav__link">
+    5.1 Preenchimento de campos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#52-selecao" class="md-nav__link">
+    5.2 Seleção
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#53-ativacao" class="md-nav__link">
+    5.3 Ativação
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-vocabularios-e-padroes" class="md-nav__link">
+    6. Vocabulários e padrões
+  </a>
+  
+    <nav class="md-nav" aria-label="6. Vocabulários e padrões">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#61-terminologia" class="md-nav__link">
+    6.1 Terminologia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#62-tipos-de-tela" class="md-nav__link">
+    6.2 Tipos de Tela
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#63-sequencias-de-dialogos" class="md-nav__link">
+    6.3 Sequências de diálogos
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias-bibliograficas" class="md-nav__link">
+    Referências Bibliográficas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#versionamento" class="md-nav__link">
+    Versionamento
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="metas-de-usabilidade">Metas de usabilidade</h1>
+<h2 id="1-introducao">1. Introdução</h2>
+<h3 id="11-objetivo-do-guia-de-estilo">1.1 Objetivo do Guia de Estilo</h3>
+<p style="text-indent: 20px; text-align: justify">
+O guia de estilo tem como objetivo ser um guia para a equipe de design e de desenvolvedores, de forma que as equipes tenham uma orientação no momento de criação da interface do sistema, mantendo assim um padrão em seu design (Barbosa e Silva, 2010).
+</p>
+
+<p style="text-indent: 20px; text-align: justify">
+A partir disso, os protótipos do CD-MOJ utilizarão este documento, que contém a maioria dos padrões da proposta de uma nova interface do CD-MOJ, como guia para a criação da interface.
+</p>
+
+<h3 id="12-organizacao-e-conteudo">1.2 Organização e Conteúdo</h3>
+<p style="text-indent: 20px; text-align: justify">
+O guia de estilo segue o padrão sugerido por Marcus e Mayhew sendo separado por seis tópicos.
+</p>
+
+<h3 id="13-publico-alvo">1.3 Público-alvo</h3>
+<p style="text-indent: 20px; text-align: justify">
+Este guia destina-se aos desenvolvedores e projetistas.
+</p>
+
+<h3 id="14-como-utilizar-esse-guia">1.4 Como utilizar esse guia</h3>
+<p style="text-indent: 20px; text-align: justify">
+A cada etapa dentro do ciclo de Mayhew deve-se aplicar o guia de estilo ao projeto.
+</p>
+
+<h3 id="15-como-manter-o-guia">1.5 Como manter o guia</h3>
+<p style="text-indent: 20px; text-align: justify">
+O guia deve ser mantido atualizado após cada alteração e ou decisão acerca das funcionalidades do projeto.
+</p>
+
+<h2 id="2-resultados-de-analise">2. Resultados de Análise</h2>
+<h3 id="21-descricao-do-ambiente-de-trabalho-do-usuario">2.1 Descrição do ambiente de trabalho do usuário</h3>
+<p style="text-indent: 20px; text-align: justify">
+O usuário encontra-se num ambiente voltado para a aprendizagem, deve-se prezar pelo foco do usuário ou seja, o usuário não pode se deparar com empecilhos e distrações, também prioriza uma navegação fluída.
+</p>
+
+<h2 id="3-elementos-de-interface">3. Elementos de interface</h2>
+<h3 id="31-disposicao-espacial-e-grid">3.1 Disposição espacial e grid</h3>
+<p style="text-indent: 20px; text-align: justify">
+A disposição espacial do site deve ser responsiva de forma que qualquer usuário consiga utilizar o sistema em dispositivos com resoluções distintas. 
+</p>
+
+<p><img alt="grid" src="../../assets/grid/grid.png" /></p>
+<h3 id="32-janela">3.2 Janela</h3>
+<p style="text-indent: 20px; text-align: justify">
+O sistema não deve contar com muitas janelas dada a simplicidade e o contexto de uso da aplicação.
+</p>
+
+<h3 id="33-tipografia">3.3 Tipografia</h3>
+<p style="text-indent: 20px; text-align: justify">
+A fonte que será utilizada ao longo do projeto será a <a class="link" href="https://fonts.google.com/specimen/Roboto+Slab#standard-styles" target="_blank">Roboto Slab</a>, projetada por Christian Robertson.
+</p>
+
+<p><img alt="Exemplos" src="../../assets/guia_estilo/font_examples.png" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/1yIb9NlQsHFwIDzKP2aUcbMG4EKajaoQe/view?usp=sharing" target="_blank">Link para a imagem</a></p>
+<h3 id="34-simbolos-nao-tipograficos">3.4 Símbolos não tipográficos</h3>
+<p style="text-indent: 20px; text-align: justify">
+Como atualmente o CD-MOJ não apresenta símbolos não tipográficos, fizemos uma seleção de possíveis símbolos que poderão ser usados levando em conta o contexto de uso da aplicação. Todos esses ícones são do <a href="https://material.io/resources/icons/" target="_blank">Material Icons</a>.
+</p>
+
+<table>
+<thead>
+<tr>
+<th>Ícones</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="account_circle" src="../../assets/icons/account_circle.png" /></td>
+<td><img alt="arrow_back" src="../../assets/icons/arrow_back.png" /></td>
+<td><img alt="arrow_forward" src="../../assets/icons/arrow_forward.png" /></td>
+<td><img alt="close" src="../../assets/icons/close.png" /></td>
+<td><img alt="computer" src="../../assets/icons/computer.png" /></td>
+</tr>
+<tr>
+<td><img alt="get_app" src="../../assets/icons/get_app.png" /></td>
+<td><img alt="info" src="../../assets/icons/info.png" /></td>
+<td><img alt="like" src="../../assets/icons/like.png" /></td>
+<td><img alt="leaderboard" src="../../assets/icons/leaderboard.png" /></td>
+<td><img alt="search" src="../../assets/icons/search.png" /></td>
+</tr>
+</tbody>
+</table>
+<h3 id="35-cores">3.5 Cores</h3>
+<h4 id="351-cores-principais">3.5.1 Cores principais</h4>
+<p style="text-indent: 20px; text-align: justify">
+As cores principais escolhidas foram avaliadas em relação à acessibilidade para pessoas com os tipos mais comuns de daltonismo.
+</p>
+
+<p>As cores principais escolhidas foram as seguintes:</p>
+<p><img alt="Cores" src="../../assets/guia_estilo/colors_01.jpeg" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/1rV91S2b9LDAsIkeiURHiS4KViya9pQIm/view?usp=sharing" target="_blank">Link para a imagem</a></p>
+<h4 id="352-cores-secundarias">3.5.2 Cores secundárias</h4>
+<p style="text-indent: 20px; text-align: justify">
+As cores secundárias foram utilizadas para representação de <i>status</i> de informações do sistema.
+</p>
+
+<p>As cores secundárias escolhidas foram as seguintes:</p>
+<p><img alt="Cores" src="../../assets/guia_estilo/colors_02.jpeg" /></p>
+<p><a class="link" href="https://drive.google.com/file/d/16hnPRDOcvgtxOLhso-G04L_BCxxtWhjC/view?usp=sharing" target="_blank">Link para a imagem</a></p>
+<h3 id="36-animacoes">3.6 Animações</h3>
+<p style="text-indent: 20px; text-align: justify">
+Tendo em vista que o sistema tem um escopo simples, não tem necessidade de animações complexas de mesmo modo, animações simples podem ser utilizadas.
+</p>
+
+<h2 id="4-elementos-de-interacao">4. Elementos de interação</h2>
+<h3 id="41-estilos-de-interacao">4.1 Estilos de interação</h3>
+<p style="text-indent: 20px; text-align: justify">
+O usuário terá a possibilidade de navegação através de botões de icones selecionáveis nos elementos não tipograficos
+</p>
+
+<h3 id="42-selecao-de-um-estilo">4.2 Seleção de um estilo</h3>
+<p style="text-indent: 20px; text-align: justify">
+Foi escolhido um estilo simples levando em consideração a simplicidade do escopo do sistema.
+</p>
+
+<h3 id="43-aceleradores">4.3 Aceleradores</h3>
+<p style="text-indent: 20px; text-align: justify">
+Levando em consideração o contexto da aplicação e suas funções, não há necessidade de possuir aceleradores.
+</p>
+
+<h2 id="5-elementos-de-acao">5. Elementos de ação</h2>
+<h3 id="51-preenchimento-de-campos">5.1 Preenchimento de campos</h3>
+<p style="text-indent: 20px; text-align: justify">
+O campo de login é o único campo presente no sistema e deve ser preenchido pelo próprio usuário.
+</p>
+
+<h3 id="52-selecao">5.2 Seleção</h3>
+<p style="text-indent: 20px; text-align: justify">
+O usuário pode selecionar qualquer texto ou elemento no site.
+</p>
+
+<h3 id="53-ativacao">5.3 Ativação</h3>
+<p style="text-indent: 20px; text-align: justify">
+A questão da ativação no sistema será direcionada a partir de fundamentos de usabilidade, possibilitando a liberdade do usuário quando dentro do <i>site</i>. 
+</p>
+
+<h2 id="6-vocabularios-e-padroes">6. Vocabulários e padrões</h2>
+<h3 id="61-terminologia">6.1 Terminologia</h3>
+<p style="text-indent: 20px; text-align: justify">
+O site faz uso de uma terminologia utilizada também no contexto de competições de programação, deve-se prezar também pelo ensinamento dos termos para novos usuários.
+</p>
+
+<h3 id="62-tipos-de-tela">6.2 Tipos de Tela</h3>
+<p style="text-indent: 20px; text-align: justify">
+As telas se diferenciam em: tela de listagem dos contests, tela principal do contest, tela do ranqueamento, tela de visualização das questões, sendo esta bem mais informativa que as outras, tela de estatísticas.
+</p>
+
+<h3 id="63-sequencias-de-dialogos">6.3 Sequências de diálogos</h3>
+<p style="text-indent: 20px; text-align: justify">
+Deve existir uma confirmação quando o usuário fizer login e também quando ocorrer algum erro nesse processo.
+</p>
+
+<h2 id="referencias-bibliograficas">Referências Bibliográficas</h2>
+<ul>
+<li>BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.</li>
+<li>Adobe Color, disponível em: https://color.adobe.com/pt/create/color-wheel Acesso em: 11/10/2020</li>
+<li>Google Fonts, disponível em: https://fonts.google.com/ Acesso em: 11/10/2020</li>
+</ul>
+<h2 id="versionamento">Versionamento</h2>
+<table>
+<thead>
+<tr>
+<th>Versão</th>
+<th>Data</th>
+<th>Modificação</th>
+<th>Autor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.0</td>
+<td>11/10/2020</td>
+<td>Criação do documento de guia de estilo</td>
+<td>Todos os integrantes</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>12/10/2020</td>
+<td>Correções gramaticais e nos links das imagens</td>
+<td>Igor Paiva</td>
+</tr>
+<tr>
+<td>2.0</td>
+<td>15/10/2020</td>
+<td>Refatorando estrutura geral do projeto</td>
+<td>Marcelo Victor, Rhuan Carlos, Thiago Lopes e Thiago Guilherme</td>
+</tr>
+<tr>
+<td>3.0</td>
+<td>06/12/2020</td>
+<td>Atualizando guia de estilo</td>
+<td>Igor Paiva e Thiago Lopes</td>
+</tr>
+</tbody>
+</table>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
+        
+          <a href="../metas_de_usabilidade/" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+            </div>
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Anterior
+                </span>
+                Metas de usabilidade
+              </div>
+            </div>
+          </a>
+        
+        
+          <a href="../../DeAD/nivel1/reestruturacao_tarefas/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Próximo
+                </span>
+                Reengenharia do trabalho
+              </div>
+            </div>
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../assets/javascripts/vendor.0ac82a11.min.js"></script>
+      <script src="../../assets/javascripts/bundle.f81dfb4d.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}</script>
+      
+      <script>
+        app = initialize({
+          base: "../..",
+          features: [],
+          search: Object.assign({
+            worker: "../../assets/javascripts/worker/search.4ac00218.min.js"
+          }, typeof search !== "undefined" && search)
+        })
+      </script>
+      
+    
+  </body>
+</html>

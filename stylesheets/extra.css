@@ -1,0 +1,21 @@
+:root {
+    --md-primary-fg-color:        #012840;
+    --md-primary-fg-color--light: #b8d3d9;
+    --md-primary-fg-color--dark:  #049dd9;
+}
+
+.link {
+    color: #04b2d9 !important;
+}
+
+.link:hover {
+    color: #012840 !important;
+}
+
+strong {
+    color: #049dd9;
+}
+
+b {
+    color: #049dd9;
+}
